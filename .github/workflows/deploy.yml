@@ -1,0 +1,28 @@
+name: Deploy to Cloudflare Pages
+
+# Per-project deploy delegates to the reusable workflow in the template repo.
+# All build/validate/retry/deploy logic lives in ONE place:
+# bldgtyp/bt-web-report-template/.github/workflows/_renderer-build.yml
+#
+# Refs are pinned to explicit SHAs at seed time; `btwr pin` advances them.
+# Schemas comes from public npm — no BLDGTYP_PACKAGES_TOKEN required.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    uses: bldgtyp/bt-web-report-template/.github/workflows/_renderer-build.yml@e7aeb1a44d2fd49c65e2b9370c8f60f95b20e80a
+    with:
+      project-repo: ${{ github.repository }}
+      project-ref: ${{ github.ref }}
+      renderer-ref: e7aeb1a44d2fd49c65e2b9370c8f60f95b20e80a
+      schemas-ref: f7c96e2713a0ea490bc15c1a4fa05e674b958e98
+      run-deploy: true
+      cloudflare-pages-project: ${{ vars.CLOUDFLARE_PAGES_PROJECT }}
+    secrets:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_ACCESS_OTP_IDP_ID: ${{ secrets.CLOUDFLARE_ACCESS_OTP_IDP_ID }}
