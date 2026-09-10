@@ -1,0 +1,891 @@
+section,field_id,phpp_label,variant_id,variant_name,datatype,units,value,excel_row
+geometry,geometry.tfa,TFA,code_minimum,Code Minimum,TFA,m2,611.995188822,316
+geometry,geometry.tfa,TFA,as_drawn,As-Drawn,TFA,m2,611.995188822,316
+geometry,geometry.tfa,TFA,enerphit_by_component,EnerPHit By Component,TFA,m2,611.995188822,316
+geometry,geometry.tfa,TFA,phi_low_energy_building,PHI Low Energy Building,TFA,m2,611.995188822,316
+geometry,geometry.tfa,TFA,enerphit_by_demand,EnerPHit By Demand,TFA,m2,611.995188822,316
+geometry,geometry.vv,VV,code_minimum,Code Minimum,VV,m3,1529.98797206,317
+geometry,geometry.vv,VV,as_drawn,As-Drawn,VV,m3,1529.98797206,317
+geometry,geometry.vv,VV,enerphit_by_component,EnerPHit By Component,VV,m3,1529.98797206,317
+geometry,geometry.vv,VV,phi_low_energy_building,PHI Low Energy Building,VV,m3,1529.98797206,317
+geometry,geometry.vv,VV,enerphit_by_demand,EnerPHit By Demand,VV,m3,1529.98797206,317
+geometry,geometry.vn50,Vn50,code_minimum,Code Minimum,Vn50,m3,1705.37226052,318
+geometry,geometry.vn50,Vn50,as_drawn,As-Drawn,Vn50,m3,1705.37226052,318
+geometry,geometry.vn50,Vn50,enerphit_by_component,EnerPHit By Component,Vn50,m3,1705.37226052,318
+geometry,geometry.vn50,Vn50,phi_low_energy_building,PHI Low Energy Building,Vn50,m3,1705.37226052,318
+geometry,geometry.vn50,Vn50,enerphit_by_demand,EnerPHit By Demand,Vn50,m3,1705.37226052,318
+geometry,geometry.building_envelope_area,Building Envelope Area,code_minimum,Code Minimum,Building Envelope Area,m2,1703.36967347,319
+geometry,geometry.building_envelope_area,Building Envelope Area,as_drawn,As-Drawn,Building Envelope Area,m2,1703.36967347,319
+geometry,geometry.building_envelope_area,Building Envelope Area,enerphit_by_component,EnerPHit By Component,Building Envelope Area,m2,1703.36967347,319
+geometry,geometry.building_envelope_area,Building Envelope Area,phi_low_energy_building,PHI Low Energy Building,Building Envelope Area,m2,1703.36967347,319
+geometry,geometry.building_envelope_area,Building Envelope Area,enerphit_by_demand,EnerPHit By Demand,Building Envelope Area,m2,1703.36967347,319
+geometry,geometry.gross_volume,Gross Volume,code_minimum,Code Minimum,Gross Volume,m3,2216.98393868,320
+geometry,geometry.gross_volume,Gross Volume,as_drawn,As-Drawn,Gross Volume,m3,2216.98393868,320
+geometry,geometry.gross_volume,Gross Volume,enerphit_by_component,EnerPHit By Component,Gross Volume,m3,2216.98393868,320
+geometry,geometry.gross_volume,Gross Volume,phi_low_energy_building,PHI Low Energy Building,Gross Volume,m3,2216.98393868,320
+geometry,geometry.gross_volume,Gross Volume,enerphit_by_demand,EnerPHit By Demand,Gross Volume,m3,2216.98393868,320
+geometry,geometry.window_area_north,Window Area (North),code_minimum,Code Minimum,Window Area (North),m2,25.851690378,321
+geometry,geometry.window_area_north,Window Area (North),as_drawn,As-Drawn,Window Area (North),m2,25.851690378,321
+geometry,geometry.window_area_north,Window Area (North),enerphit_by_component,EnerPHit By Component,Window Area (North),m2,25.851690378,321
+geometry,geometry.window_area_north,Window Area (North),phi_low_energy_building,PHI Low Energy Building,Window Area (North),m2,25.851690378,321
+geometry,geometry.window_area_north,Window Area (North),enerphit_by_demand,EnerPHit By Demand,Window Area (North),m2,25.851690378,321
+geometry,geometry.window_area_east,Window Area (East),code_minimum,Code Minimum,Window Area (East),m2,36.5532831985,322
+geometry,geometry.window_area_east,Window Area (East),as_drawn,As-Drawn,Window Area (East),m2,36.5532831985,322
+geometry,geometry.window_area_east,Window Area (East),enerphit_by_component,EnerPHit By Component,Window Area (East),m2,36.5532831985,322
+geometry,geometry.window_area_east,Window Area (East),phi_low_energy_building,PHI Low Energy Building,Window Area (East),m2,36.5532831985,322
+geometry,geometry.window_area_east,Window Area (East),enerphit_by_demand,EnerPHit By Demand,Window Area (East),m2,36.5532831985,322
+geometry,geometry.window_area_south,Window Area (South),code_minimum,Code Minimum,Window Area (South),m2,23.6780527452,323
+geometry,geometry.window_area_south,Window Area (South),as_drawn,As-Drawn,Window Area (South),m2,23.6780527452,323
+geometry,geometry.window_area_south,Window Area (South),enerphit_by_component,EnerPHit By Component,Window Area (South),m2,23.6780527452,323
+geometry,geometry.window_area_south,Window Area (South),phi_low_energy_building,PHI Low Energy Building,Window Area (South),m2,23.6780527452,323
+geometry,geometry.window_area_south,Window Area (South),enerphit_by_demand,EnerPHit By Demand,Window Area (South),m2,23.6780527452,323
+geometry,geometry.window_area_west,Window Area (West),code_minimum,Code Minimum,Window Area (West),m2,39.809330535,324
+geometry,geometry.window_area_west,Window Area (West),as_drawn,As-Drawn,Window Area (West),m2,39.809330535,324
+geometry,geometry.window_area_west,Window Area (West),enerphit_by_component,EnerPHit By Component,Window Area (West),m2,39.809330535,324
+geometry,geometry.window_area_west,Window Area (West),phi_low_energy_building,PHI Low Energy Building,Window Area (West),m2,39.809330535,324
+geometry,geometry.window_area_west,Window Area (West),enerphit_by_demand,EnerPHit By Demand,Window Area (West),m2,39.809330535,324
+geometry,geometry.window_area_horiz,Window Area (Horiz),code_minimum,Code Minimum,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),as_drawn,As-Drawn,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),enerphit_by_component,EnerPHit By Component,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),phi_low_energy_building,PHI Low Energy Building,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),enerphit_by_demand,EnerPHit By Demand,Window Area (Horiz),m2,0,325
+envelope,envelope.floor_bg,New Metal Roof,code_minimum,Code Minimum,New Metal Roof,hr-ft2-F/Btu,41.7,328
+envelope,envelope.floor_bg,New Metal Roof,as_drawn,As-Drawn,New Metal Roof,hr-ft2-F/Btu,50.5,328
+envelope,envelope.floor_bg,New Metal Roof,enerphit_by_component,EnerPHit By Component,New Metal Roof,hr-ft2-F/Btu,50.5,328
+envelope,envelope.floor_bg,New Metal Roof,phi_low_energy_building,PHI Low Energy Building,New Metal Roof,hr-ft2-F/Btu,60,328
+envelope,envelope.floor_bg,New Metal Roof,enerphit_by_demand,EnerPHit By Demand,New Metal Roof,hr-ft2-F/Btu,60,328
+envelope,envelope.wall_bg,Flat Roof,code_minimum,Code Minimum,Flat Roof,hr-ft2-F/Btu,41.7,329
+envelope,envelope.wall_bg,Flat Roof,as_drawn,As-Drawn,Flat Roof,hr-ft2-F/Btu,49.8,329
+envelope,envelope.wall_bg,Flat Roof,enerphit_by_component,EnerPHit By Component,Flat Roof,hr-ft2-F/Btu,49.8,329
+envelope,envelope.wall_bg,Flat Roof,phi_low_energy_building,PHI Low Energy Building,Flat Roof,hr-ft2-F/Btu,60,329
+envelope,envelope.wall_bg,Flat Roof,enerphit_by_demand,EnerPHit By Demand,Flat Roof,hr-ft2-F/Btu,60,329
+envelope,envelope.party_wall,Ext. Wall with Insul.,code_minimum,Code Minimum,Ext. Wall with Insul.,hr-ft2-F/Btu,22.2,330
+envelope,envelope.party_wall,Ext. Wall with Insul.,as_drawn,As-Drawn,Ext. Wall with Insul.,hr-ft2-F/Btu,34.5,330
+envelope,envelope.party_wall,Ext. Wall with Insul.,enerphit_by_component,EnerPHit By Component,Ext. Wall with Insul.,hr-ft2-F/Btu,34.5,330
+envelope,envelope.party_wall,Ext. Wall with Insul.,phi_low_energy_building,PHI Low Energy Building,Ext. Wall with Insul.,hr-ft2-F/Btu,40,330
+envelope,envelope.party_wall,Ext. Wall with Insul.,enerphit_by_demand,EnerPHit By Demand,Ext. Wall with Insul.,hr-ft2-F/Btu,40,330
+envelope,envelope.wall_ag,Cellar Wall w Int. Insul.,code_minimum,Code Minimum,Cellar Wall w Int. Insul.,hr-ft2-F/Btu,20,331
+envelope,envelope.wall_ag,Cellar Wall w Int. Insul.,as_drawn,As-Drawn,Cellar Wall w Int. Insul.,hr-ft2-F/Btu,16.4,331
+envelope,envelope.wall_ag,Cellar Wall w Int. Insul.,enerphit_by_component,EnerPHit By Component,Cellar Wall w Int. Insul.,hr-ft2-F/Btu,16.4,331
+envelope,envelope.wall_ag,Cellar Wall w Int. Insul.,phi_low_energy_building,PHI Low Energy Building,Cellar Wall w Int. Insul.,hr-ft2-F/Btu,30,331
+envelope,envelope.wall_ag,Cellar Wall w Int. Insul.,enerphit_by_demand,EnerPHit By Demand,Cellar Wall w Int. Insul.,hr-ft2-F/Btu,35,331
+envelope,envelope.roof,Cellar Wall w Ext. Insul.,code_minimum,Code Minimum,Cellar Wall w Ext. Insul.,hr-ft2-F/Btu,20,332
+envelope,envelope.roof,Cellar Wall w Ext. Insul.,as_drawn,As-Drawn,Cellar Wall w Ext. Insul.,hr-ft2-F/Btu,12.4,332
+envelope,envelope.roof,Cellar Wall w Ext. Insul.,enerphit_by_component,EnerPHit By Component,Cellar Wall w Ext. Insul.,hr-ft2-F/Btu,12.4,332
+envelope,envelope.roof,Cellar Wall w Ext. Insul.,phi_low_energy_building,PHI Low Energy Building,Cellar Wall w Ext. Insul.,hr-ft2-F/Btu,30,332
+envelope,envelope.roof,Cellar Wall w Ext. Insul.,enerphit_by_demand,EnerPHit By Demand,Cellar Wall w Ext. Insul.,hr-ft2-F/Btu,35,332
+envelope,envelope.assembly_06,Garage Ceiling,code_minimum,Code Minimum,Garage Ceiling,hr-ft2-F/Btu,31.7,333
+envelope,envelope.assembly_06,Garage Ceiling,as_drawn,As-Drawn,Garage Ceiling,hr-ft2-F/Btu,31.7,333
+envelope,envelope.assembly_06,Garage Ceiling,enerphit_by_component,EnerPHit By Component,Garage Ceiling,hr-ft2-F/Btu,31.7,333
+envelope,envelope.assembly_06,Garage Ceiling,phi_low_energy_building,PHI Low Energy Building,Garage Ceiling,hr-ft2-F/Btu,40,333
+envelope,envelope.assembly_06,Garage Ceiling,enerphit_by_demand,EnerPHit By Demand,Garage Ceiling,hr-ft2-F/Btu,40,333
+envelope,envelope.assembly_07,Cellar Floor w Insul.,code_minimum,Code Minimum,Cellar Floor w Insul.,hr-ft2-F/Btu,1.4,334
+envelope,envelope.assembly_07,Cellar Floor w Insul.,as_drawn,As-Drawn,Cellar Floor w Insul.,hr-ft2-F/Btu,21.9,334
+envelope,envelope.assembly_07,Cellar Floor w Insul.,enerphit_by_component,EnerPHit By Component,Cellar Floor w Insul.,hr-ft2-F/Btu,21.9,334
+envelope,envelope.assembly_07,Cellar Floor w Insul.,phi_low_energy_building,PHI Low Energy Building,Cellar Floor w Insul.,hr-ft2-F/Btu,25,334
+envelope,envelope.assembly_07,Cellar Floor w Insul.,enerphit_by_demand,EnerPHit By Demand,Cellar Floor w Insul.,hr-ft2-F/Btu,30,334
+envelope,envelope.assembly_08,Cellar Floor,code_minimum,Code Minimum,Cellar Floor,hr-ft2-F/Btu,1.4,335
+envelope,envelope.assembly_08,Cellar Floor,as_drawn,As-Drawn,Cellar Floor,hr-ft2-F/Btu,1.4,335
+envelope,envelope.assembly_08,Cellar Floor,enerphit_by_component,EnerPHit By Component,Cellar Floor,hr-ft2-F/Btu,10,335
+envelope,envelope.assembly_08,Cellar Floor,phi_low_energy_building,PHI Low Energy Building,Cellar Floor,hr-ft2-F/Btu,20,335
+envelope,envelope.assembly_08,Cellar Floor,enerphit_by_demand,EnerPHit By Demand,Cellar Floor,hr-ft2-F/Btu,30,335
+envelope,envelope.assembly_09,Ext. Wall,code_minimum,Code Minimum,Ext. Wall,hr-ft2-F/Btu,22.2,336
+envelope,envelope.assembly_09,Ext. Wall,as_drawn,As-Drawn,Ext. Wall,hr-ft2-F/Btu,12.8,336
+envelope,envelope.assembly_09,Ext. Wall,enerphit_by_component,EnerPHit By Component,Ext. Wall,hr-ft2-F/Btu,18,336
+envelope,envelope.assembly_09,Ext. Wall,phi_low_energy_building,PHI Low Energy Building,Ext. Wall,hr-ft2-F/Btu,30,336
+envelope,envelope.assembly_09,Ext. Wall,enerphit_by_demand,EnerPHit By Demand,Ext. Wall,hr-ft2-F/Btu,40,336
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),code_minimum,Code Minimum,Thermal Bridge Allowance (% increase),% Increase,0.2,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),as_drawn,As-Drawn,Thermal Bridge Allowance (% increase),% Increase,0.2,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),enerphit_by_component,EnerPHit By Component,Thermal Bridge Allowance (% increase),% Increase,0.15,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),phi_low_energy_building,PHI Low Energy Building,Thermal Bridge Allowance (% increase),% Increase,0.1,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),enerphit_by_demand,EnerPHit By Demand,Thermal Bridge Allowance (% increase),% Increase,0.1,343
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),code_minimum,Code Minimum,Volumetric Air Leakage Rate (n50),ACH@50,3,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),as_drawn,As-Drawn,Volumetric Air Leakage Rate (n50),ACH@50,1,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),enerphit_by_component,EnerPHit By Component,Volumetric Air Leakage Rate (n50),ACH@50,1,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),phi_low_energy_building,PHI Low Energy Building,Volumetric Air Leakage Rate (n50),ACH@50,0.8,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),enerphit_by_demand,EnerPHit By Demand,Volumetric Air Leakage Rate (n50),ACH@50,0.6,344
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),code_minimum,Code Minimum,Envelope Air Leakage Rate (q50),m3/hr-m2,3.0035269861,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),as_drawn,As-Drawn,Envelope Air Leakage Rate (q50),m3/hr-m2,1.00117566203,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),enerphit_by_component,EnerPHit By Component,Envelope Air Leakage Rate (q50),m3/hr-m2,1.00117566203,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),phi_low_energy_building,PHI Low Energy Building,Envelope Air Leakage Rate (q50),m3/hr-m2,0.800940529627,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),enerphit_by_demand,EnerPHit By Demand,Envelope Air Leakage Rate (q50),m3/hr-m2,0.600705397221,345
+envelope,envelope.window_u_value,Window U-value,code_minimum,Code Minimum,Window U-value (Installed),Btu/hr-ft2-F,0.271382554651,346
+envelope,envelope.window_u_value,Window U-value,as_drawn,As-Drawn,Window U-value (Installed),Btu/hr-ft2-F,0.200009303769,346
+envelope,envelope.window_u_value,Window U-value,enerphit_by_component,EnerPHit By Component,Window U-value (Installed),Btu/hr-ft2-F,0.158506516379,346
+envelope,envelope.window_u_value,Window U-value,phi_low_energy_building,PHI Low Energy Building,Window U-value (Installed),Btu/hr-ft2-F,0.158506516379,346
+envelope,envelope.window_u_value,Window U-value,enerphit_by_demand,EnerPHit By Demand,Window U-value (Installed),Btu/hr-ft2-F,0.142655864741,346
+envelope,envelope.window_shgc,Window SHGC,code_minimum,Code Minimum,Window SHGC,-,0.4,347
+envelope,envelope.window_shgc,Window SHGC,as_drawn,As-Drawn,Window SHGC,-,0.4,347
+envelope,envelope.window_shgc,Window SHGC,enerphit_by_component,EnerPHit By Component,Window SHGC,-,0.4,347
+envelope,envelope.window_shgc,Window SHGC,phi_low_energy_building,PHI Low Energy Building,Window SHGC,-,0.4,347
+envelope,envelope.window_shgc,Window SHGC,enerphit_by_demand,EnerPHit By Demand,Window SHGC,-,0.4,347
+systems,systems.ventilation_system,Ventilation System,code_minimum,Code Minimum,Ventilation System,,2-Extract air unit,350
+systems,systems.ventilation_system,Ventilation System,as_drawn,As-Drawn,Ventilation System,,1-Balanced PH ventilation with HR,350
+systems,systems.ventilation_system,Ventilation System,enerphit_by_component,EnerPHit By Component,Ventilation System,,1-Balanced PH ventilation with HR,350
+systems,systems.ventilation_system,Ventilation System,phi_low_energy_building,PHI Low Energy Building,Ventilation System,,1-Balanced PH ventilation with HR,350
+systems,systems.ventilation_system,Ventilation System,enerphit_by_demand,EnerPHit By Demand,Ventilation System,,1-Balanced PH ventilation with HR,350
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,code_minimum,Code Minimum,Ventilation Unit HR Efficiency,%,,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,as_drawn,As-Drawn,Ventilation Unit HR Efficiency,%,0.726222339584,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,enerphit_by_component,EnerPHit By Component,Ventilation Unit HR Efficiency,%,0.726222339584,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,phi_low_energy_building,PHI Low Energy Building,Ventilation Unit HR Efficiency,%,0.737001268441,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,enerphit_by_demand,EnerPHit By Demand,Ventilation Unit HR Efficiency,%,0.737001268441,351
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,code_minimum,Code Minimum,Ventilation Unit ER Efficiency,%,,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,as_drawn,As-Drawn,Ventilation Unit ER Efficiency,%,0.521042703828,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,enerphit_by_component,EnerPHit By Component,Ventilation Unit ER Efficiency,%,0.521042703828,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,phi_low_energy_building,PHI Low Energy Building,Ventilation Unit ER Efficiency,%,0.521042703828,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,enerphit_by_demand,EnerPHit By Demand,Ventilation Unit ER Efficiency,%,0.521042703828,352
+systems,systems.system_hr_efficiency,System HR Efficiency,code_minimum,Code Minimum,System HR Efficiency,%,,353
+systems,systems.system_hr_efficiency,System HR Efficiency,as_drawn,As-Drawn,System HR Efficiency,%,0.726222339584,353
+systems,systems.system_hr_efficiency,System HR Efficiency,enerphit_by_component,EnerPHit By Component,System HR Efficiency,%,0.726222339584,353
+systems,systems.system_hr_efficiency,System HR Efficiency,phi_low_energy_building,PHI Low Energy Building,System HR Efficiency,%,0.737001268441,353
+systems,systems.system_hr_efficiency,System HR Efficiency,enerphit_by_demand,EnerPHit By Demand,System HR Efficiency,%,0.737001268441,353
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),code_minimum,Code Minimum,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),as_drawn,As-Drawn,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),enerphit_by_component,EnerPHit By Component,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),phi_low_energy_building,PHI Low Energy Building,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),enerphit_by_demand,EnerPHit By Demand,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,code_minimum,Code Minimum,Cold Air Duct Insulation Thickness,mm,25,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,as_drawn,As-Drawn,Cold Air Duct Insulation Thickness,mm,25,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,enerphit_by_component,EnerPHit By Component,Cold Air Duct Insulation Thickness,mm,25,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,phi_low_energy_building,PHI Low Energy Building,Cold Air Duct Insulation Thickness,mm,52,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,enerphit_by_demand,EnerPHit By Demand,Cold Air Duct Insulation Thickness,mm,52,355
+systems,systems.heating_system,Heating System,code_minimum,Code Minimum,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,as_drawn,As-Drawn,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,enerphit_by_component,EnerPHit By Component,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,phi_low_energy_building,PHI Low Energy Building,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,enerphit_by_demand,EnerPHit By Demand,Heating System,,Heat pump(s),356
+systems,systems.cooling_system,Cooling System,code_minimum,Code Minimum,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,as_drawn,As-Drawn,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,enerphit_by_component,EnerPHit By Component,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,phi_low_energy_building,PHI Low Energy Building,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,enerphit_by_demand,EnerPHit By Demand,Cooling System,,Elec. Heat Pump,357
+systems,systems.dhw_system,DHW System,code_minimum,Code Minimum,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,as_drawn,As-Drawn,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,enerphit_by_component,EnerPHit By Component,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,phi_low_energy_building,PHI Low Energy Building,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,enerphit_by_demand,EnerPHit By Demand,DHW System,,Heat pump(s),358
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,code_minimum,Code Minimum,Heat Demand Limit,kWh/m2,25,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,as_drawn,As-Drawn,Heat Demand Limit,kWh/m2,25,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,enerphit_by_component,EnerPHit By Component,Heat Demand Limit,kWh/m2,0,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,phi_low_energy_building,PHI Low Energy Building,Heat Demand Limit,kWh/m2,25,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,enerphit_by_demand,EnerPHit By Demand,Heat Demand Limit,kWh/m2,25,363
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,code_minimum,Code Minimum,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,as_drawn,As-Drawn,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,enerphit_by_component,EnerPHit By Component,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,phi_low_energy_building,PHI Low Energy Building,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,enerphit_by_demand,EnerPHit By Demand,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,code_minimum,Code Minimum,Latent Cooling Demand Limit,kWh/m2,0,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,as_drawn,As-Drawn,Latent Cooling Demand Limit,kWh/m2,0,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,enerphit_by_component,EnerPHit By Component,Latent Cooling Demand Limit,kWh/m2,0,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,phi_low_energy_building,PHI Low Energy Building,Latent Cooling Demand Limit,kWh/m2,0,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,enerphit_by_demand,EnerPHit By Demand,Latent Cooling Demand Limit,kWh/m2,0,365
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,code_minimum,Code Minimum,Total Cooling Demand Limit,kWh/m2,15,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,as_drawn,As-Drawn,Total Cooling Demand Limit,kWh/m2,15,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,enerphit_by_component,EnerPHit By Component,Total Cooling Demand Limit,kWh/m2,0,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,phi_low_energy_building,PHI Low Energy Building,Total Cooling Demand Limit,kWh/m2,15,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,enerphit_by_demand,EnerPHit By Demand,Total Cooling Demand Limit,kWh/m2,15,366
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,code_minimum,Code Minimum,Peak Heat Load Limit,W/m2,0,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,as_drawn,As-Drawn,Peak Heat Load Limit,W/m2,0,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,enerphit_by_component,EnerPHit By Component,Peak Heat Load Limit,W/m2,0,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,phi_low_energy_building,PHI Low Energy Building,Peak Heat Load Limit,W/m2,0,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,enerphit_by_demand,EnerPHit By Demand,Peak Heat Load Limit,W/m2,0,367
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,code_minimum,Code Minimum,Peak Cooling Load Limit,W/m2,8.8328553208,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,as_drawn,As-Drawn,Peak Cooling Load Limit,W/m2,8.8328553208,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,enerphit_by_component,EnerPHit By Component,Peak Cooling Load Limit,W/m2,8.8328553208,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,phi_low_energy_building,PHI Low Energy Building,Peak Cooling Load Limit,W/m2,8.8328553208,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,enerphit_by_demand,EnerPHit By Demand,Peak Cooling Load Limit,W/m2,8.8328553208,368
+certification_limits,certification_limits.pe_limit,PE Limit,code_minimum,Code Minimum,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,as_drawn,As-Drawn,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,enerphit_by_component,EnerPHit By Component,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,phi_low_energy_building,PHI Low Energy Building,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,enerphit_by_demand,EnerPHit By Demand,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.per_limit,PER Limit,code_minimum,Code Minimum,PER Limit,kWh/m2,182,370
+certification_limits,certification_limits.per_limit,PER Limit,as_drawn,As-Drawn,PER Limit,kWh/m2,139,370
+certification_limits,certification_limits.per_limit,PER Limit,enerphit_by_component,EnerPHit By Component,PER Limit,kWh/m2,101,370
+certification_limits,certification_limits.per_limit,PER Limit,phi_low_energy_building,PHI Low Energy Building,PER Limit,kWh/m2,82,370
+certification_limits,certification_limits.per_limit,PER Limit,enerphit_by_demand,EnerPHit By Demand,PER Limit,kWh/m2,75,370
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,code_minimum,Code Minimum,PHIUS Net Source Energy Limit,kWh/m2,19.6547027516,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,as_drawn,As-Drawn,PHIUS Net Source Energy Limit,kWh/m2,19.6547027516,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,enerphit_by_component,EnerPHit By Component,PHIUS Net Source Energy Limit,kWh/m2,19.6547027516,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,phi_low_energy_building,PHI Low Energy Building,PHIUS Net Source Energy Limit,kWh/m2,19.6547027516,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,enerphit_by_demand,EnerPHit By Demand,PHIUS Net Source Energy Limit,kWh/m2,19.6547027516,371
+heating_demand,heating_demand.walls_ag,Walls (AG),code_minimum,Code Minimum,Walls (AG),kWh,12818.0371724,376
+heating_demand,heating_demand.walls_ag,Walls (AG),as_drawn,As-Drawn,Walls (AG),kWh,10234.0985198,376
+heating_demand,heating_demand.walls_ag,Walls (AG),enerphit_by_component,EnerPHit By Component,Walls (AG),kWh,9591.20902176,376
+heating_demand,heating_demand.walls_ag,Walls (AG),phi_low_energy_building,PHI Low Energy Building,Walls (AG),kWh,7456.83240793,376
+heating_demand,heating_demand.walls_ag,Walls (AG),enerphit_by_demand,EnerPHit By Demand,Walls (AG),kWh,7140.96844211,376
+heating_demand,heating_demand.walls_bg,Walls (BG),code_minimum,Code Minimum,Walls (BG),kWh,461.691452717,377
+heating_demand,heating_demand.walls_bg,Walls (BG),as_drawn,As-Drawn,Walls (BG),kWh,680.450591991,377
+heating_demand,heating_demand.walls_bg,Walls (BG),enerphit_by_component,EnerPHit By Component,Walls (BG),kWh,2247.42496729,377
+heating_demand,heating_demand.walls_bg,Walls (BG),phi_low_energy_building,PHI Low Energy Building,Walls (BG),kWh,1407.83673543,377
+heating_demand,heating_demand.walls_bg,Walls (BG),enerphit_by_demand,EnerPHit By Demand,Walls (BG),kWh,1346.78918932,377
+heating_demand,heating_demand.roofs,Roofs,code_minimum,Code Minimum,Roofs,kWh,4852.34622875,378
+heating_demand,heating_demand.roofs,Roofs,as_drawn,As-Drawn,Roofs,kWh,4032.39809888,378
+heating_demand,heating_demand.roofs,Roofs,enerphit_by_component,EnerPHit By Component,Roofs,kWh,4018.48272664,378
+heating_demand,heating_demand.roofs,Roofs,phi_low_energy_building,PHI Low Energy Building,Roofs,kWh,3367.84397207,378
+heating_demand,heating_demand.roofs,Roofs,enerphit_by_demand,EnerPHit By Demand,Roofs,kWh,3371.39917563,378
+heating_demand,heating_demand.floor_slabs,Floor Slabs,code_minimum,Code Minimum,Floor Slabs,kWh,9852.7963619,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,as_drawn,As-Drawn,Floor Slabs,kWh,10053.1859034,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,enerphit_by_component,EnerPHit By Component,Floor Slabs,kWh,4868.51720336,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,phi_low_energy_building,PHI Low Energy Building,Floor Slabs,kWh,3086.35252574,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,enerphit_by_demand,EnerPHit By Demand,Floor Slabs,kWh,2347.21095581,379
+heating_demand,heating_demand.windows,Windows,code_minimum,Code Minimum,Windows,kWh,16226.6151953,383
+heating_demand,heating_demand.windows,Windows,as_drawn,As-Drawn,Windows,kWh,12023.9265834,383
+heating_demand,heating_demand.windows,Windows,enerphit_by_component,EnerPHit By Component,Windows,kWh,9496.0270609,383
+heating_demand,heating_demand.windows,Windows,phi_low_energy_building,PHI Low Energy Building,Windows,kWh,9472.30788438,383
+heating_demand,heating_demand.windows,Windows,enerphit_by_demand,EnerPHit By Demand,Windows,kWh,8534.07643932,383
+heating_demand,heating_demand.exterior_door,Exterior door,code_minimum,Code Minimum,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,as_drawn,As-Drawn,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,enerphit_by_component,EnerPHit By Component,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,phi_low_energy_building,PHI Low Energy Building,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,enerphit_by_demand,EnerPHit By Demand,Exterior door,kWh,,384
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,code_minimum,Code Minimum,Thermal Bridges,kWh,17749.424901,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,as_drawn,As-Drawn,Thermal Bridges,kWh,15417.0931238,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,enerphit_by_component,EnerPHit By Component,Thermal Bridges,kWh,5441.59192389,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,phi_low_energy_building,PHI Low Energy Building,Thermal Bridges,kWh,2989.97301727,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,enerphit_by_demand,EnerPHit By Demand,Thermal Bridges,kWh,2735.5933765,385
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),code_minimum,Code Minimum,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),as_drawn,As-Drawn,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),enerphit_by_component,EnerPHit By Component,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),phi_low_energy_building,PHI Low Energy Building,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),enerphit_by_demand,EnerPHit By Demand,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_bg,TB (BG),code_minimum,Code Minimum,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),as_drawn,As-Drawn,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),enerphit_by_component,EnerPHit By Component,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),phi_low_energy_building,PHI Low Energy Building,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),enerphit_by_demand,EnerPHit By Demand,TB (BG),kWh,,387
+heating_demand,heating_demand.ventilation,Ventilation,code_minimum,Code Minimum,Ventilation,kWh,15121.9882649,388
+heating_demand,heating_demand.ventilation,Ventilation,as_drawn,As-Drawn,Ventilation,kWh,6500.08880962,388
+heating_demand,heating_demand.ventilation,Ventilation,enerphit_by_component,EnerPHit By Component,Ventilation,kWh,6477.65770209,388
+heating_demand,heating_demand.ventilation,Ventilation,phi_low_energy_building,PHI Low Energy Building,Ventilation,kWh,5678.06632456,388
+heating_demand,heating_demand.ventilation,Ventilation,enerphit_by_demand,EnerPHit By Demand,Ventilation,kWh,5024.68399938,388
+heating_demand,heating_demand.heating_demand,Heating Demand,code_minimum,Code Minimum,Heating Demand,kWh,58668.2840792,389
+heating_demand,heating_demand.heating_demand,Heating Demand,as_drawn,As-Drawn,Heating Demand,kWh,41290.3247092,389
+heating_demand,heating_demand.heating_demand,Heating Demand,enerphit_by_component,EnerPHit By Component,Heating Demand,kWh,25788.0833296,389
+heating_demand,heating_demand.heating_demand,Heating Demand,phi_low_energy_building,PHI Low Energy Building,Heating Demand,kWh,17809.8314694,389
+heating_demand,heating_demand.heating_demand,Heating Demand,enerphit_by_demand,EnerPHit By Demand,Heating Demand,kWh,15158.505543,389
+heating_demand,heating_demand.north,North,code_minimum,Code Minimum,North,kWh,640.069594013,390
+heating_demand,heating_demand.north,North,as_drawn,As-Drawn,North,kWh,640.069594013,390
+heating_demand,heating_demand.north,North,enerphit_by_component,EnerPHit By Component,North,kWh,640.069594013,390
+heating_demand,heating_demand.north,North,phi_low_energy_building,PHI Low Energy Building,North,kWh,640.069594013,390
+heating_demand,heating_demand.north,North,enerphit_by_demand,EnerPHit By Demand,North,kWh,640.069594013,390
+heating_demand,heating_demand.east,East,code_minimum,Code Minimum,East,kWh,1963.66999121,391
+heating_demand,heating_demand.east,East,as_drawn,As-Drawn,East,kWh,1963.66999121,391
+heating_demand,heating_demand.east,East,enerphit_by_component,EnerPHit By Component,East,kWh,1963.66999121,391
+heating_demand,heating_demand.east,East,phi_low_energy_building,PHI Low Energy Building,East,kWh,1963.66999121,391
+heating_demand,heating_demand.east,East,enerphit_by_demand,EnerPHit By Demand,East,kWh,1963.66999121,391
+heating_demand,heating_demand.south,South,code_minimum,Code Minimum,South,kWh,2951.2993544,392
+heating_demand,heating_demand.south,South,as_drawn,As-Drawn,South,kWh,2951.2993544,392
+heating_demand,heating_demand.south,South,enerphit_by_component,EnerPHit By Component,South,kWh,2951.2993544,392
+heating_demand,heating_demand.south,South,phi_low_energy_building,PHI Low Energy Building,South,kWh,2951.2993544,392
+heating_demand,heating_demand.south,South,enerphit_by_demand,EnerPHit By Demand,South,kWh,2951.2993544,392
+heating_demand,heating_demand.west,West,code_minimum,Code Minimum,West,kWh,2423.3969247,393
+heating_demand,heating_demand.west,West,as_drawn,As-Drawn,West,kWh,2423.3969247,393
+heating_demand,heating_demand.west,West,enerphit_by_component,EnerPHit By Component,West,kWh,2423.3969247,393
+heating_demand,heating_demand.west,West,phi_low_energy_building,PHI Low Energy Building,West,kWh,2423.3969247,393
+heating_demand,heating_demand.west,West,enerphit_by_demand,EnerPHit By Demand,West,kWh,2423.3969247,393
+heating_demand,heating_demand.horizontal,Horizontal,code_minimum,Code Minimum,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,as_drawn,As-Drawn,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,enerphit_by_component,EnerPHit By Component,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,phi_low_energy_building,PHI Low Energy Building,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,enerphit_by_demand,EnerPHit By Demand,Horizontal,kWh,0,394
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,code_minimum,Code Minimum,Sum opaque areas,kWh,4326.17054126,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,as_drawn,As-Drawn,Sum opaque areas,kWh,3547.33674529,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,enerphit_by_component,EnerPHit By Component,Sum opaque areas,kWh,2338.20938437,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,phi_low_energy_building,PHI Low Energy Building,Sum opaque areas,kWh,1756.71211857,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,enerphit_by_demand,EnerPHit By Demand,Sum opaque areas,kWh,1688.66420639,395
+heating_demand,heating_demand.internal_gains,Internal Gains,code_minimum,Code Minimum,Internal Gains,kWh,7786.82747654,396
+heating_demand,heating_demand.internal_gains,Internal Gains,as_drawn,As-Drawn,Internal Gains,kWh,7786.82747654,396
+heating_demand,heating_demand.internal_gains,Internal Gains,enerphit_by_component,EnerPHit By Component,Internal Gains,kWh,7786.82747654,396
+heating_demand,heating_demand.internal_gains,Internal Gains,phi_low_energy_building,PHI Low Energy Building,Internal Gains,kWh,7786.82747654,396
+heating_demand,heating_demand.internal_gains,Internal Gains,enerphit_by_demand,EnerPHit By Demand,Internal Gains,kWh,7786.82747654,396
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,code_minimum,Code Minimum,Cooling Demand,kWh,2282.41495293,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,as_drawn,As-Drawn,Cooling Demand,kWh,2119.71629898,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,enerphit_by_component,EnerPHit By Component,Cooling Demand,kWh,1947.56900975,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,phi_low_energy_building,PHI Low Energy Building,Cooling Demand,kWh,2272.55993085,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,enerphit_by_demand,EnerPHit By Demand,Cooling Demand,kWh,2537.58342188,399
+cooling_demand,cooling_demand.walls_ag,Walls (AG),code_minimum,Code Minimum,Walls (AG),kWh,10673.4659082,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),as_drawn,As-Drawn,Walls (AG),kWh,6889.11122935,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),enerphit_by_component,EnerPHit By Component,Walls (AG),kWh,4589.05353797,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),phi_low_energy_building,PHI Low Energy Building,Walls (AG),kWh,2528.29074452,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),enerphit_by_demand,EnerPHit By Demand,Walls (AG),kWh,2422.5259668,400
+cooling_demand,cooling_demand.walls_bg,Walls (BG),code_minimum,Code Minimum,Walls (BG),kWh,427.51868803,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),as_drawn,As-Drawn,Walls (BG),kWh,592.330828815,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),enerphit_by_component,EnerPHit By Component,Walls (BG),kWh,1914.17254941,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),phi_low_energy_building,PHI Low Energy Building,Walls (BG),kWh,1048.08923197,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),enerphit_by_demand,EnerPHit By Demand,Walls (BG),kWh,997.89914104,401
+cooling_demand,cooling_demand.roofs,Roofs,code_minimum,Code Minimum,Roofs,kWh,4040.50568358,402
+cooling_demand,cooling_demand.roofs,Roofs,as_drawn,As-Drawn,Roofs,kWh,2714.41973814,402
+cooling_demand,cooling_demand.roofs,Roofs,enerphit_by_component,EnerPHit By Component,Roofs,kWh,1922.70154181,402
+cooling_demand,cooling_demand.roofs,Roofs,phi_low_energy_building,PHI Low Energy Building,Roofs,kWh,1141.8908563,402
+cooling_demand,cooling_demand.roofs,Roofs,enerphit_by_demand,EnerPHit By Demand,Roofs,kWh,1143.72470816,402
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,code_minimum,Code Minimum,Floor Slabs,kWh,9123.52730223,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,as_drawn,As-Drawn,Floor Slabs,kWh,8751.27747483,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,enerphit_by_component,EnerPHit By Component,Floor Slabs,kWh,4146.60427942,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,phi_low_energy_building,PHI Low Energy Building,Floor Slabs,kWh,2297.69032652,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,enerphit_by_demand,EnerPHit By Demand,Floor Slabs,kWh,1739.15844827,403
+cooling_demand,cooling_demand.windows,Windows,code_minimum,Code Minimum,Windows,kWh,13511.7586073,407
+cooling_demand,cooling_demand.windows,Windows,as_drawn,As-Drawn,Windows,kWh,8093.93885414,407
+cooling_demand,cooling_demand.windows,Windows,enerphit_by_component,EnerPHit By Component,Windows,kWh,4543.51234361,407
+cooling_demand,cooling_demand.windows,Windows,phi_low_energy_building,PHI Low Energy Building,Windows,kWh,3211.65168307,407
+cooling_demand,cooling_demand.windows,Windows,enerphit_by_demand,EnerPHit By Demand,Windows,kWh,2895.12857318,407
+cooling_demand,cooling_demand.exterior_door,Exterior door,code_minimum,Code Minimum,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,as_drawn,As-Drawn,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,enerphit_by_component,EnerPHit By Component,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,phi_low_energy_building,PHI Low Energy Building,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,enerphit_by_demand,EnerPHit By Demand,Exterior door,kWh,,408
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,code_minimum,Code Minimum,Thermal Bridges,kWh,14779.788748,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,as_drawn,As-Drawn,Thermal Bridges,kWh,10378.0581316,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,enerphit_by_component,EnerPHit By Component,Thermal Bridges,kWh,2603.60884784,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,phi_low_energy_building,PHI Low Energy Building,Thermal Bridges,kWh,1013.77108836,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,enerphit_by_demand,EnerPHit By Demand,Thermal Bridges,kWh,928.031826902,409
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),code_minimum,Code Minimum,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),as_drawn,As-Drawn,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),enerphit_by_component,EnerPHit By Component,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),phi_low_energy_building,PHI Low Energy Building,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),enerphit_by_demand,EnerPHit By Demand,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_bg,TB (BG),code_minimum,Code Minimum,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),as_drawn,As-Drawn,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),enerphit_by_component,EnerPHit By Component,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),phi_low_energy_building,PHI Low Energy Building,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),enerphit_by_demand,EnerPHit By Demand,TB (BG),kWh,,411
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),code_minimum,Code Minimum,Ventilation (Basic),kWh,4280.50914745,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),as_drawn,As-Drawn,Ventilation (Basic),kWh,2618.2435871,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),enerphit_by_component,EnerPHit By Component,Ventilation (Basic),kWh,2551.30560527,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),phi_low_energy_building,PHI Low Energy Building,Ventilation (Basic),kWh,2161.74287013,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),enerphit_by_demand,EnerPHit By Demand,Ventilation (Basic),kWh,2137.91574659,412
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),code_minimum,Code Minimum,Ventilation (Addn'l),kWh,1432.57369232,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),as_drawn,As-Drawn,Ventilation (Addn'l),kWh,1481.95407205,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),enerphit_by_component,EnerPHit By Component,Ventilation (Addn'l),kWh,1378.37003332,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),phi_low_energy_building,PHI Low Energy Building,Ventilation (Addn'l),kWh,1218.27509541,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),enerphit_by_demand,EnerPHit By Demand,Ventilation (Addn'l),kWh,1278.29382863,413
+cooling_demand,cooling_demand.north,North,code_minimum,Code Minimum,North,kWh,722.255948269,414
+cooling_demand,cooling_demand.north,North,as_drawn,As-Drawn,North,kWh,683.270534041,414
+cooling_demand,cooling_demand.north,North,enerphit_by_component,EnerPHit By Component,North,kWh,617.183341525,414
+cooling_demand,cooling_demand.north,North,phi_low_energy_building,PHI Low Energy Building,North,kWh,538.723192654,414
+cooling_demand,cooling_demand.north,North,enerphit_by_demand,EnerPHit By Demand,North,kWh,538.723192654,414
+cooling_demand,cooling_demand.east,East,code_minimum,Code Minimum,East,kWh,1977.67202746,415
+cooling_demand,cooling_demand.east,East,as_drawn,As-Drawn,East,kWh,1864.83188175,415
+cooling_demand,cooling_demand.east,East,enerphit_by_component,EnerPHit By Component,East,kWh,1659.93793296,415
+cooling_demand,cooling_demand.east,East,phi_low_energy_building,PHI Low Energy Building,East,kWh,1431.28816402,415
+cooling_demand,cooling_demand.east,East,enerphit_by_demand,EnerPHit By Demand,East,kWh,1431.28816402,415
+cooling_demand,cooling_demand.south,South,code_minimum,Code Minimum,South,kWh,1803.24579873,416
+cooling_demand,cooling_demand.south,South,as_drawn,As-Drawn,South,kWh,1605.95374963,416
+cooling_demand,cooling_demand.south,South,enerphit_by_component,EnerPHit By Component,South,kWh,1368.95882441,416
+cooling_demand,cooling_demand.south,South,phi_low_energy_building,PHI Low Energy Building,South,kWh,1176.67478961,416
+cooling_demand,cooling_demand.south,South,enerphit_by_demand,EnerPHit By Demand,South,kWh,1176.67478961,416
+cooling_demand,cooling_demand.west,West,code_minimum,Code Minimum,West,kWh,2590.29168704,417
+cooling_demand,cooling_demand.west,West,as_drawn,As-Drawn,West,kWh,2437.43485025,417
+cooling_demand,cooling_demand.west,West,enerphit_by_component,EnerPHit By Component,West,kWh,2169.09237447,417
+cooling_demand,cooling_demand.west,West,phi_low_energy_building,PHI Low Energy Building,West,kWh,1870.8693353,417
+cooling_demand,cooling_demand.west,West,enerphit_by_demand,EnerPHit By Demand,West,kWh,1870.8693353,417
+cooling_demand,cooling_demand.horizontal,Horizontal,code_minimum,Code Minimum,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,as_drawn,As-Drawn,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,enerphit_by_component,EnerPHit By Component,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,phi_low_energy_building,PHI Low Energy Building,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,enerphit_by_demand,EnerPHit By Demand,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,code_minimum,Code Minimum,Sum opaque areas,kWh,5965.01165887,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,as_drawn,As-Drawn,Sum opaque areas,kWh,4606.64587639,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,enerphit_by_component,EnerPHit By Component,Sum opaque areas,kWh,2673.00978341,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,phi_low_energy_building,PHI Low Energy Building,Sum opaque areas,kWh,1716.89337237,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,enerphit_by_demand,EnerPHit By Demand,Sum opaque areas,kWh,1653.48665273,419
+cooling_demand,cooling_demand.internal_gains,Internal Gains,code_minimum,Code Minimum,Internal Gains,kWh,8812.25331707,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,as_drawn,As-Drawn,Internal Gains,kWh,7850.91659157,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,enerphit_by_component,EnerPHit By Component,Internal Gains,kWh,6857.53530856,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,phi_low_energy_building,PHI Low Energy Building,Internal Gains,kWh,5896.19858306,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,enerphit_by_demand,EnerPHit By Demand,Internal Gains,kWh,5896.19858306,420
+site_energy,site_energy.heating,Heating,code_minimum,Code Minimum,Heating,kWh,34120.8169252,423
+site_energy,site_energy.heating,Heating,as_drawn,As-Drawn,Heating,kWh,23889.8185037,423
+site_energy,site_energy.heating,Heating,enerphit_by_component,EnerPHit By Component,Heating,kWh,15484.6281936,423
+site_energy,site_energy.heating,Heating,phi_low_energy_building,PHI Low Energy Building,Heating,kWh,11201.1874212,423
+site_energy,site_energy.heating,Heating,enerphit_by_demand,EnerPHit By Demand,Heating,kWh,9754.17040024,423
+site_energy,site_energy.cooling,Cooling,code_minimum,Code Minimum,Cooling,kWh,3842.61692146,424
+site_energy,site_energy.cooling,Cooling,as_drawn,As-Drawn,Cooling,kWh,2436.34153976,424
+site_energy,site_energy.cooling,Cooling,enerphit_by_component,EnerPHit By Component,Cooling,kWh,2154.1074682,424
+site_energy,site_energy.cooling,Cooling,phi_low_energy_building,PHI Low Energy Building,Cooling,kWh,2062.5941912,424
+site_energy,site_energy.cooling,Cooling,enerphit_by_demand,EnerPHit By Demand,Cooling,kWh,2070.74519707,424
+site_energy,site_energy.dhw,DHW,code_minimum,Code Minimum,DHW,kWh,3736.2496217,425
+site_energy,site_energy.dhw,DHW,as_drawn,As-Drawn,DHW,kWh,3753.98248778,425
+site_energy,site_energy.dhw,DHW,enerphit_by_component,EnerPHit By Component,DHW,kWh,3680.23951695,425
+site_energy,site_energy.dhw,DHW,phi_low_energy_building,PHI Low Energy Building,DHW,kWh,3623.11224378,425
+site_energy,site_energy.dhw,DHW,enerphit_by_demand,EnerPHit By Demand,DHW,kWh,3608.52178701,425
+site_energy,site_energy.dishwashing,Dishwashing,code_minimum,Code Minimum,Dishwashing,kWh,237.781789106,426
+site_energy,site_energy.dishwashing,Dishwashing,as_drawn,As-Drawn,Dishwashing,kWh,237.781789106,426
+site_energy,site_energy.dishwashing,Dishwashing,enerphit_by_component,EnerPHit By Component,Dishwashing,kWh,237.781789106,426
+site_energy,site_energy.dishwashing,Dishwashing,phi_low_energy_building,PHI Low Energy Building,Dishwashing,kWh,237.781789106,426
+site_energy,site_energy.dishwashing,Dishwashing,enerphit_by_demand,EnerPHit By Demand,Dishwashing,kWh,237.781789106,426
+site_energy,site_energy.clothes_washing,Clothes Washing,code_minimum,Code Minimum,Clothes Washing,kWh,69.7606393014,427
+site_energy,site_energy.clothes_washing,Clothes Washing,as_drawn,As-Drawn,Clothes Washing,kWh,69.7606393014,427
+site_energy,site_energy.clothes_washing,Clothes Washing,enerphit_by_component,EnerPHit By Component,Clothes Washing,kWh,69.7606393014,427
+site_energy,site_energy.clothes_washing,Clothes Washing,phi_low_energy_building,PHI Low Energy Building,Clothes Washing,kWh,69.7606393014,427
+site_energy,site_energy.clothes_washing,Clothes Washing,enerphit_by_demand,EnerPHit By Demand,Clothes Washing,kWh,69.7606393014,427
+site_energy,site_energy.clothes_drying,Clothes Drying,code_minimum,Code Minimum,Clothes Drying,kWh,335.400265867,428
+site_energy,site_energy.clothes_drying,Clothes Drying,as_drawn,As-Drawn,Clothes Drying,kWh,335.400265867,428
+site_energy,site_energy.clothes_drying,Clothes Drying,enerphit_by_component,EnerPHit By Component,Clothes Drying,kWh,335.400265867,428
+site_energy,site_energy.clothes_drying,Clothes Drying,phi_low_energy_building,PHI Low Energy Building,Clothes Drying,kWh,335.400265867,428
+site_energy,site_energy.clothes_drying,Clothes Drying,enerphit_by_demand,EnerPHit By Demand,Clothes Drying,kWh,335.400265867,428
+site_energy,site_energy.refrigerator,Refrigerator,code_minimum,Code Minimum,Refrigerator,kWh,445.3,429
+site_energy,site_energy.refrigerator,Refrigerator,as_drawn,As-Drawn,Refrigerator,kWh,445.3,429
+site_energy,site_energy.refrigerator,Refrigerator,enerphit_by_component,EnerPHit By Component,Refrigerator,kWh,445.3,429
+site_energy,site_energy.refrigerator,Refrigerator,phi_low_energy_building,PHI Low Energy Building,Refrigerator,kWh,445.3,429
+site_energy,site_energy.refrigerator,Refrigerator,enerphit_by_demand,EnerPHit By Demand,Refrigerator,kWh,445.3,429
+site_energy,site_energy.cooking,Cooking,code_minimum,Code Minimum,Cooking,kWh,0,430
+site_energy,site_energy.cooking,Cooking,as_drawn,As-Drawn,Cooking,kWh,0,430
+site_energy,site_energy.cooking,Cooking,enerphit_by_component,EnerPHit By Component,Cooking,kWh,0,430
+site_energy,site_energy.cooking,Cooking,phi_low_energy_building,PHI Low Energy Building,Cooking,kWh,0,430
+site_energy,site_energy.cooking,Cooking,enerphit_by_demand,EnerPHit By Demand,Cooking,kWh,0,430
+site_energy,site_energy.phi_lighting,PHI Lighting,code_minimum,Code Minimum,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_lighting,PHI Lighting,as_drawn,As-Drawn,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_lighting,PHI Lighting,enerphit_by_component,EnerPHit By Component,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_lighting,PHI Lighting,phi_low_energy_building,PHI Low Energy Building,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_lighting,PHI Lighting,enerphit_by_demand,EnerPHit By Demand,PHI Lighting,kWh,0,431
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,code_minimum,Code Minimum,PHI Consumer Elec.,kWh,653.058617339,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,as_drawn,As-Drawn,PHI Consumer Elec.,kWh,653.058617339,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,enerphit_by_component,EnerPHit By Component,PHI Consumer Elec.,kWh,653.058617339,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,phi_low_energy_building,PHI Low Energy Building,PHI Consumer Elec.,kWh,653.058617339,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,enerphit_by_demand,EnerPHit By Demand,PHI Consumer Elec.,kWh,653.058617339,432
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,code_minimum,Code Minimum,PHI Small Appliances,kWh,68.6861017561,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,as_drawn,As-Drawn,PHI Small Appliances,kWh,68.6861017561,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,enerphit_by_component,EnerPHit By Component,PHI Small Appliances,kWh,68.6861017561,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,phi_low_energy_building,PHI Low Energy Building,PHI Small Appliances,kWh,68.6861017561,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,enerphit_by_demand,EnerPHit By Demand,PHI Small Appliances,kWh,68.6861017561,433
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,code_minimum,Code Minimum,Phius Int. Lighting,kWh,0,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,as_drawn,As-Drawn,Phius Int. Lighting,kWh,0,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,enerphit_by_component,EnerPHit By Component,Phius Int. Lighting,kWh,0,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,phi_low_energy_building,PHI Low Energy Building,Phius Int. Lighting,kWh,0,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,enerphit_by_demand,EnerPHit By Demand,Phius Int. Lighting,kWh,0,434
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,code_minimum,Code Minimum,Phius Ext. Lighting,kWh,0,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,as_drawn,As-Drawn,Phius Ext. Lighting,kWh,0,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,enerphit_by_component,EnerPHit By Component,Phius Ext. Lighting,kWh,0,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,phi_low_energy_building,PHI Low Energy Building,Phius Ext. Lighting,kWh,0,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,enerphit_by_demand,EnerPHit By Demand,Phius Ext. Lighting,kWh,0,435
+site_energy,site_energy.phius_mel,Phius MEL,code_minimum,Code Minimum,Phius MEL,kWh,0,436
+site_energy,site_energy.phius_mel,Phius MEL,as_drawn,As-Drawn,Phius MEL,kWh,0,436
+site_energy,site_energy.phius_mel,Phius MEL,enerphit_by_component,EnerPHit By Component,Phius MEL,kWh,0,436
+site_energy,site_energy.phius_mel,Phius MEL,phi_low_energy_building,PHI Low Energy Building,Phius MEL,kWh,0,436
+site_energy,site_energy.phius_mel,Phius MEL,enerphit_by_demand,EnerPHit By Demand,Phius MEL,kWh,0,436
+site_energy,site_energy.aux_elec,Aux Elec,code_minimum,Code Minimum,Aux Elec,kWh,4141.16890004,437
+site_energy,site_energy.aux_elec,Aux Elec,as_drawn,As-Drawn,Aux Elec,kWh,1878.08609981,437
+site_energy,site_energy.aux_elec,Aux Elec,enerphit_by_component,EnerPHit By Component,Aux Elec,kWh,1878.08609981,437
+site_energy,site_energy.aux_elec,Aux Elec,phi_low_energy_building,PHI Low Energy Building,Aux Elec,kWh,1732.02800718,437
+site_energy,site_energy.aux_elec,Aux Elec,enerphit_by_demand,EnerPHit By Demand,Aux Elec,kWh,1093.7352852,437
+site_energy,site_energy.solar_pv,Solar PV,code_minimum,Code Minimum,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,as_drawn,As-Drawn,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,enerphit_by_component,EnerPHit By Component,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,phi_low_energy_building,PHI Low Energy Building,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,enerphit_by_demand,EnerPHit By Demand,Solar PV,kWh,0,438
+primary_energy,primary_energy.heating,Heating,code_minimum,Code Minimum,Heating,kWh,88714.1240056,441
+primary_energy,primary_energy.heating,Heating,as_drawn,As-Drawn,Heating,kWh,62113.5281097,441
+primary_energy,primary_energy.heating,Heating,enerphit_by_component,EnerPHit By Component,Heating,kWh,40260.0333035,441
+primary_energy,primary_energy.heating,Heating,phi_low_energy_building,PHI Low Energy Building,Heating,kWh,29123.0872951,441
+primary_energy,primary_energy.heating,Heating,enerphit_by_demand,EnerPHit By Demand,Heating,kWh,25360.8430406,441
+primary_energy,primary_energy.cooling,Cooling,code_minimum,Code Minimum,Cooling,kWh,9990.80399579,442
+primary_energy,primary_energy.cooling,Cooling,as_drawn,As-Drawn,Cooling,kWh,6334.48800338,442
+primary_energy,primary_energy.cooling,Cooling,enerphit_by_component,EnerPHit By Component,Cooling,kWh,5600.67941733,442
+primary_energy,primary_energy.cooling,Cooling,phi_low_energy_building,PHI Low Energy Building,Cooling,kWh,5362.74489711,442
+primary_energy,primary_energy.cooling,Cooling,enerphit_by_demand,EnerPHit By Demand,Cooling,kWh,5383.93751239,442
+primary_energy,primary_energy.dhw,DHW,code_minimum,Code Minimum,DHW,kWh,9714.24901642,443
+primary_energy,primary_energy.dhw,DHW,as_drawn,As-Drawn,DHW,kWh,9760.35446822,443
+primary_energy,primary_energy.dhw,DHW,enerphit_by_component,EnerPHit By Component,DHW,kWh,9568.62274407,443
+primary_energy,primary_energy.dhw,DHW,phi_low_energy_building,PHI Low Energy Building,DHW,kWh,9420.09183382,443
+primary_energy,primary_energy.dhw,DHW,enerphit_by_demand,EnerPHit By Demand,DHW,kWh,9382.15664623,443
+primary_energy,primary_energy.dishwashing,Dishwashing,code_minimum,Code Minimum,Dishwashing,kWh,618.232651675,444
+primary_energy,primary_energy.dishwashing,Dishwashing,as_drawn,As-Drawn,Dishwashing,kWh,618.232651675,444
+primary_energy,primary_energy.dishwashing,Dishwashing,enerphit_by_component,EnerPHit By Component,Dishwashing,kWh,618.232651675,444
+primary_energy,primary_energy.dishwashing,Dishwashing,phi_low_energy_building,PHI Low Energy Building,Dishwashing,kWh,618.232651675,444
+primary_energy,primary_energy.dishwashing,Dishwashing,enerphit_by_demand,EnerPHit By Demand,Dishwashing,kWh,618.232651675,444
+primary_energy,primary_energy.clothes_washing,Clothes Washing,code_minimum,Code Minimum,Clothes Washing,kWh,181.377662184,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,as_drawn,As-Drawn,Clothes Washing,kWh,181.377662184,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,enerphit_by_component,EnerPHit By Component,Clothes Washing,kWh,181.377662184,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,phi_low_energy_building,PHI Low Energy Building,Clothes Washing,kWh,181.377662184,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,enerphit_by_demand,EnerPHit By Demand,Clothes Washing,kWh,181.377662184,445
+primary_energy,primary_energy.clothes_drying,Clothes Drying,code_minimum,Code Minimum,Clothes Drying,kWh,872.040691254,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,as_drawn,As-Drawn,Clothes Drying,kWh,872.040691254,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,enerphit_by_component,EnerPHit By Component,Clothes Drying,kWh,872.040691254,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,phi_low_energy_building,PHI Low Energy Building,Clothes Drying,kWh,872.040691254,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,enerphit_by_demand,EnerPHit By Demand,Clothes Drying,kWh,872.040691254,446
+primary_energy,primary_energy.refrigerator,Refrigerator,code_minimum,Code Minimum,Refrigerator,kWh,1157.78,447
+primary_energy,primary_energy.refrigerator,Refrigerator,as_drawn,As-Drawn,Refrigerator,kWh,1157.78,447
+primary_energy,primary_energy.refrigerator,Refrigerator,enerphit_by_component,EnerPHit By Component,Refrigerator,kWh,1157.78,447
+primary_energy,primary_energy.refrigerator,Refrigerator,phi_low_energy_building,PHI Low Energy Building,Refrigerator,kWh,1157.78,447
+primary_energy,primary_energy.refrigerator,Refrigerator,enerphit_by_demand,EnerPHit By Demand,Refrigerator,kWh,1157.78,447
+primary_energy,primary_energy.cooking,Cooking,code_minimum,Code Minimum,Cooking,kWh,0,448
+primary_energy,primary_energy.cooking,Cooking,as_drawn,As-Drawn,Cooking,kWh,0,448
+primary_energy,primary_energy.cooking,Cooking,enerphit_by_component,EnerPHit By Component,Cooking,kWh,0,448
+primary_energy,primary_energy.cooking,Cooking,phi_low_energy_building,PHI Low Energy Building,Cooking,kWh,0,448
+primary_energy,primary_energy.cooking,Cooking,enerphit_by_demand,EnerPHit By Demand,Cooking,kWh,0,448
+primary_energy,primary_energy.phi_lighting,PHI Lighting,code_minimum,Code Minimum,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,as_drawn,As-Drawn,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,enerphit_by_component,EnerPHit By Component,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,phi_low_energy_building,PHI Low Energy Building,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,enerphit_by_demand,EnerPHit By Demand,PHI Lighting,kWh,0,449
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,code_minimum,Code Minimum,PHI Consumer Elec.,kWh,1697.95240508,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,as_drawn,As-Drawn,PHI Consumer Elec.,kWh,1697.95240508,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,enerphit_by_component,EnerPHit By Component,PHI Consumer Elec.,kWh,1697.95240508,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,phi_low_energy_building,PHI Low Energy Building,PHI Consumer Elec.,kWh,1697.95240508,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,enerphit_by_demand,EnerPHit By Demand,PHI Consumer Elec.,kWh,1697.95240508,450
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,code_minimum,Code Minimum,PHI Small Appliances,kWh,178.583864566,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,as_drawn,As-Drawn,PHI Small Appliances,kWh,178.583864566,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,enerphit_by_component,EnerPHit By Component,PHI Small Appliances,kWh,178.583864566,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,phi_low_energy_building,PHI Low Energy Building,PHI Small Appliances,kWh,178.583864566,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,enerphit_by_demand,EnerPHit By Demand,PHI Small Appliances,kWh,178.583864566,451
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,code_minimum,Code Minimum,Phius Int. Lighting,kWh,0,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,as_drawn,As-Drawn,Phius Int. Lighting,kWh,0,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,enerphit_by_component,EnerPHit By Component,Phius Int. Lighting,kWh,0,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,phi_low_energy_building,PHI Low Energy Building,Phius Int. Lighting,kWh,0,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,enerphit_by_demand,EnerPHit By Demand,Phius Int. Lighting,kWh,0,452
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,code_minimum,Code Minimum,Phius Ext. Lighting,kWh,0,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,as_drawn,As-Drawn,Phius Ext. Lighting,kWh,0,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,enerphit_by_component,EnerPHit By Component,Phius Ext. Lighting,kWh,0,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,phi_low_energy_building,PHI Low Energy Building,Phius Ext. Lighting,kWh,0,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,enerphit_by_demand,EnerPHit By Demand,Phius Ext. Lighting,kWh,0,453
+primary_energy,primary_energy.phius_mel,Phius MEL,code_minimum,Code Minimum,Phius MEL,kWh,0,454
+primary_energy,primary_energy.phius_mel,Phius MEL,as_drawn,As-Drawn,Phius MEL,kWh,0,454
+primary_energy,primary_energy.phius_mel,Phius MEL,enerphit_by_component,EnerPHit By Component,Phius MEL,kWh,0,454
+primary_energy,primary_energy.phius_mel,Phius MEL,phi_low_energy_building,PHI Low Energy Building,Phius MEL,kWh,0,454
+primary_energy,primary_energy.phius_mel,Phius MEL,enerphit_by_demand,EnerPHit By Demand,Phius MEL,kWh,0,454
+primary_energy,primary_energy.aux_elec,Aux Elec,code_minimum,Code Minimum,Aux Elec,kWh,10767.0391401,455
+primary_energy,primary_energy.aux_elec,Aux Elec,as_drawn,As-Drawn,Aux Elec,kWh,4883.02385951,455
+primary_energy,primary_energy.aux_elec,Aux Elec,enerphit_by_component,EnerPHit By Component,Aux Elec,kWh,4883.02385951,455
+primary_energy,primary_energy.aux_elec,Aux Elec,phi_low_energy_building,PHI Low Energy Building,Aux Elec,kWh,4503.27281868,455
+primary_energy,primary_energy.aux_elec,Aux Elec,enerphit_by_demand,EnerPHit By Demand,Aux Elec,kWh,2843.71174153,455
+primary_energy,primary_energy.solar_pv,Solar PV,code_minimum,Code Minimum,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,as_drawn,As-Drawn,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,enerphit_by_component,EnerPHit By Component,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,phi_low_energy_building,PHI Low Energy Building,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,enerphit_by_demand,EnerPHit By Demand,Solar PV,kWh,0,456
+certification_results,certification_results.heat_demand,Heat Demand,code_minimum,Code Minimum,Heat Demand,kWh/m2,95.8639629049,459
+certification_results,certification_results.heat_demand,Heat Demand,as_drawn,As-Drawn,Heat Demand,kWh/m2,67.4683812281,459
+certification_results,certification_results.heat_demand,Heat Demand,enerphit_by_component,EnerPHit By Component,Heat Demand,kWh/m2,42.137722323,459
+certification_results,certification_results.heat_demand,Heat Demand,phi_low_energy_building,PHI Low Energy Building,Heat Demand,kWh/m2,29.1012605895,459
+certification_results,certification_results.heat_demand,Heat Demand,enerphit_by_demand,EnerPHit By Demand,Heat Demand,kWh/m2,24.7689946258,459
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,code_minimum,Code Minimum,Sensible Cooling Demand,kWh/m2,3.72946551643,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,as_drawn,As-Drawn,Sensible Cooling Demand,kWh/m2,3.4636159527,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,enerphit_by_component,EnerPHit By Component,Sensible Cooling Demand,kWh/m2,3.18232732107,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,phi_low_energy_building,PHI Low Energy Building,Sensible Cooling Demand,kWh/m2,3.71336241258,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,enerphit_by_demand,EnerPHit By Demand,Sensible Cooling Demand,kWh/m2,4.14641073693,460
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,code_minimum,Code Minimum,Latent Cooling Demand,kWh/m2,0.155020726415,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,as_drawn,As-Drawn,Latent Cooling Demand,kWh/m2,0.111382030253,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,enerphit_by_component,EnerPHit By Component,Latent Cooling Demand,kWh/m2,0.111382030253,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,phi_low_energy_building,PHI Low Energy Building,Latent Cooling Demand,kWh/m2,0.106803485042,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,enerphit_by_demand,EnerPHit By Demand,Latent Cooling Demand,kWh/m2,0.102224939831,461
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,code_minimum,Code Minimum,Total Cooling Demand,kWh/m2,3.88448624285,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,as_drawn,As-Drawn,Total Cooling Demand,kWh/m2,3.57499798295,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,enerphit_by_component,EnerPHit By Component,Total Cooling Demand,kWh/m2,3.29370935132,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,phi_low_energy_building,PHI Low Energy Building,Total Cooling Demand,kWh/m2,3.82016589762,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,enerphit_by_demand,EnerPHit By Demand,Total Cooling Demand,kWh/m2,4.24863567676,462
+certification_results,certification_results.peak_heat_load,Peak Heat Load,code_minimum,Code Minimum,Peak Heat Load,W/m2,41.7175276251,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,as_drawn,As-Drawn,Peak Heat Load,W/m2,28.5072437988,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,enerphit_by_component,EnerPHit By Component,Peak Heat Load,W/m2,20.251847975,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,phi_low_energy_building,PHI Low Energy Building,Peak Heat Load,W/m2,15.6533513452,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,enerphit_by_demand,EnerPHit By Demand,Peak Heat Load,W/m2,13.7413470528,463
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,code_minimum,Code Minimum,Peak Cooling Load,W/m2,9.82689452129,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,as_drawn,As-Drawn,Peak Cooling Load,W/m2,8.17499697275,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,enerphit_by_component,EnerPHit By Component,Peak Cooling Load,W/m2,6.95994614612,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,phi_low_energy_building,PHI Low Energy Building,Peak Cooling Load,W/m2,6.8723684211,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,enerphit_by_demand,EnerPHit By Demand,Peak Cooling Load,W/m2,6.95672844594,464
+certification_results,certification_results.pe_demand,PE Demand,code_minimum,Code Minimum,PE Demand,kWh/m2,202.439799684,465
+certification_results,certification_results.pe_demand,PE Demand,as_drawn,As-Drawn,PE Demand,kWh/m2,143.460869169,465
+certification_results,certification_results.pe_demand,PE Demand,enerphit_by_component,EnerPHit By Component,PE Demand,kWh/m2,106.239930945,465
+certification_results,certification_results.pe_demand,PE Demand,phi_low_energy_building,PHI Low Energy Building,PE Demand,kWh/m2,86.7901661477,465
+certification_results,certification_results.pe_demand,PE Demand,enerphit_by_demand,EnerPHit By Demand,PE Demand,kWh/m2,77.9035801038,465
+certification_results,certification_results.per_demand,PER Demand,code_minimum,Code Minimum,PER Demand,kWh/m2,99.9592046978,466
+certification_results,certification_results.per_demand,PER Demand,as_drawn,As-Drawn,PER Demand,kWh/m2,69.0490069049,466
+certification_results,certification_results.per_demand,PER Demand,enerphit_by_component,EnerPHit By Component,PER Demand,kWh/m2,50.5636645072,466
+certification_results,certification_results.per_demand,PER Demand,phi_low_energy_building,PHI Low Energy Building,PER Demand,kWh/m2,40.9495326706,466
+certification_results,certification_results.per_demand,PER Demand,enerphit_by_demand,EnerPHit By Demand,PER Demand,kWh/m2,36.7162256283,466
+airtightness,airtightness.nv_system,"nV,system",code_minimum,Code Minimum,nV system,%,0.274145608062,470
+airtightness,airtightness.nv_system,"nV,system",as_drawn,As-Drawn,nV system,%,0.274145608062,470
+airtightness,airtightness.nv_system,"nV,system",enerphit_by_component,EnerPHit By Component,nV system,%,0.274145608062,470
+airtightness,airtightness.nv_system,"nV,system",phi_low_energy_building,PHI Low Energy Building,nV system,%,0.274145608062,470
+airtightness,airtightness.nv_system,"nV,system",enerphit_by_demand,EnerPHit By Demand,nV system,%,0.274145608062,470
+airtightness,airtightness.hhr,hHR,code_minimum,Code Minimum,hHR,%,0,471
+airtightness,airtightness.hhr,hHR,as_drawn,As-Drawn,hHR,%,0.726222339584,471
+airtightness,airtightness.hhr,hHR,enerphit_by_component,EnerPHit By Component,hHR,%,0.726222339584,471
+airtightness,airtightness.hhr,hHR,phi_low_energy_building,PHI Low Energy Building,hHR,%,0.737001268441,471
+airtightness,airtightness.hhr,hHR,enerphit_by_demand,EnerPHit By Demand,hHR,%,0.737001268441,471
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",code_minimum,Code Minimum,Wind protection coefficient  e,,0.07,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",as_drawn,As-Drawn,Wind protection coefficient  e,,0.07,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",enerphit_by_component,EnerPHit By Component,Wind protection coefficient  e,,0.07,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",phi_low_energy_building,PHI Low Energy Building,Wind protection coefficient  e,,0.07,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",enerphit_by_demand,EnerPHit By Demand,Wind protection coefficient  e,,0.07,472
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",code_minimum,Code Minimum,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",as_drawn,As-Drawn,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",enerphit_by_component,EnerPHit By Component,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",phi_low_energy_building,PHI Low Energy Building,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",enerphit_by_demand,EnerPHit By Demand,Wind protection coefficient  f,,15,473
+airtightness,airtightness.vn50,Vn50,code_minimum,Code Minimum,Vn50,m3,1705.37226052,474
+airtightness,airtightness.vn50,Vn50,as_drawn,As-Drawn,Vn50,m3,1705.37226052,474
+airtightness,airtightness.vn50,Vn50,enerphit_by_component,EnerPHit By Component,Vn50,m3,1705.37226052,474
+airtightness,airtightness.vn50,Vn50,phi_low_energy_building,PHI Low Energy Building,Vn50,m3,1705.37226052,474
+airtightness,airtightness.vn50,Vn50,enerphit_by_demand,EnerPHit By Demand,Vn50,m3,1705.37226052,474
+airtightness,airtightness.vv,VV,code_minimum,Code Minimum,VV,m3,1529.98797206,475
+airtightness,airtightness.vv,VV,as_drawn,As-Drawn,VV,m3,1529.98797206,475
+airtightness,airtightness.vv,VV,enerphit_by_component,EnerPHit By Component,VV,m3,1529.98797206,475
+airtightness,airtightness.vv,VV,phi_low_energy_building,PHI Low Energy Building,VV,m3,1529.98797206,475
+airtightness,airtightness.vv,VV,enerphit_by_demand,EnerPHit By Demand,VV,m3,1529.98797206,475
+airtightness,airtightness.gt,Gt,code_minimum,Code Minimum,Gt,kFh/a,83.6471712151,476
+airtightness,airtightness.gt,Gt,as_drawn,As-Drawn,Gt,kFh/a,84.1010398236,476
+airtightness,airtightness.gt,Gt,enerphit_by_component,EnerPHit By Component,Gt,kFh/a,83.8108161784,476
+airtightness,airtightness.gt,Gt,phi_low_energy_building,PHI Low Energy Building,Gt,kFh/a,83.6014735206,476
+airtightness,airtightness.gt,Gt,enerphit_by_demand,EnerPHit By Demand,Gt,kFh/a,83.6897259034,476
+r_values,r_values.assembly_01,01ud-New Metal Roof,code_minimum,Code Minimum,01ud-New Metal Roof,m2,#DIV/0!,480
+r_values,r_values.assembly_01,01ud-New Metal Roof,as_drawn,As-Drawn,01ud-New Metal Roof,m2,#DIV/0!,480
+r_values,r_values.assembly_01,01ud-New Metal Roof,enerphit_by_component,EnerPHit By Component,01ud-New Metal Roof,m2,#DIV/0!,480
+r_values,r_values.assembly_01,01ud-New Metal Roof,phi_low_energy_building,PHI Low Energy Building,01ud-New Metal Roof,m2,#DIV/0!,480
+r_values,r_values.assembly_01,01ud-New Metal Roof,enerphit_by_demand,EnerPHit By Demand,01ud-New Metal Roof,m2,#DIV/0!,480
+r_values,r_values.assembly_02,02ud-Ext. Wall with Insul.,code_minimum,Code Minimum,02ud-Ext. Wall with Insul.,m2,#DIV/0!,481
+r_values,r_values.assembly_02,02ud-Ext. Wall with Insul.,as_drawn,As-Drawn,02ud-Ext. Wall with Insul.,m2,#DIV/0!,481
+r_values,r_values.assembly_02,02ud-Ext. Wall with Insul.,enerphit_by_component,EnerPHit By Component,02ud-Ext. Wall with Insul.,m2,#DIV/0!,481
+r_values,r_values.assembly_02,02ud-Ext. Wall with Insul.,phi_low_energy_building,PHI Low Energy Building,02ud-Ext. Wall with Insul.,m2,#DIV/0!,481
+r_values,r_values.assembly_02,02ud-Ext. Wall with Insul.,enerphit_by_demand,EnerPHit By Demand,02ud-Ext. Wall with Insul.,m2,#DIV/0!,481
+r_values,r_values.assembly_03,03ud-Ext. Wall,code_minimum,Code Minimum,03ud-Ext. Wall,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Ext. Wall,as_drawn,As-Drawn,03ud-Ext. Wall,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Ext. Wall,enerphit_by_component,EnerPHit By Component,03ud-Ext. Wall,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Ext. Wall,phi_low_energy_building,PHI Low Energy Building,03ud-Ext. Wall,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Ext. Wall,enerphit_by_demand,EnerPHit By Demand,03ud-Ext. Wall,m2,#DIV/0!,482
+r_values,r_values.assembly_06,06ud-Flat Roof,code_minimum,Code Minimum,06ud-Flat Roof,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Flat Roof,as_drawn,As-Drawn,06ud-Flat Roof,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Flat Roof,enerphit_by_component,EnerPHit By Component,06ud-Flat Roof,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Flat Roof,phi_low_energy_building,PHI Low Energy Building,06ud-Flat Roof,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Flat Roof,enerphit_by_demand,EnerPHit By Demand,06ud-Flat Roof,m2,#DIV/0!,485
+r_values,r_values.assembly_08,08ud-Cellar Wall w Int. Insul.,code_minimum,Code Minimum,08ud-Cellar Wall w Int. Insul.,m2,#DIV/0!,487
+r_values,r_values.assembly_08,08ud-Cellar Wall w Int. Insul.,as_drawn,As-Drawn,08ud-Cellar Wall w Int. Insul.,m2,#DIV/0!,487
+r_values,r_values.assembly_08,08ud-Cellar Wall w Int. Insul.,enerphit_by_component,EnerPHit By Component,08ud-Cellar Wall w Int. Insul.,m2,#DIV/0!,487
+r_values,r_values.assembly_08,08ud-Cellar Wall w Int. Insul.,phi_low_energy_building,PHI Low Energy Building,08ud-Cellar Wall w Int. Insul.,m2,#DIV/0!,487
+r_values,r_values.assembly_08,08ud-Cellar Wall w Int. Insul.,enerphit_by_demand,EnerPHit By Demand,08ud-Cellar Wall w Int. Insul.,m2,#DIV/0!,487
+r_values,r_values.assembly_09,09ud-Cellar Floor,code_minimum,Code Minimum,09ud-Cellar Floor,m2,#DIV/0!,488
+r_values,r_values.assembly_09,09ud-Cellar Floor,as_drawn,As-Drawn,09ud-Cellar Floor,m2,#DIV/0!,488
+r_values,r_values.assembly_09,09ud-Cellar Floor,enerphit_by_component,EnerPHit By Component,09ud-Cellar Floor,m2,#DIV/0!,488
+r_values,r_values.assembly_09,09ud-Cellar Floor,phi_low_energy_building,PHI Low Energy Building,09ud-Cellar Floor,m2,#DIV/0!,488
+r_values,r_values.assembly_09,09ud-Cellar Floor,enerphit_by_demand,EnerPHit By Demand,09ud-Cellar Floor,m2,#DIV/0!,488
+r_values,r_values.assembly_10,10ud-Cellar Wall w Ext. Insul.,code_minimum,Code Minimum,10ud-Cellar Wall w Ext. Insul.,m2,#DIV/0!,489
+r_values,r_values.assembly_10,10ud-Cellar Wall w Ext. Insul.,as_drawn,As-Drawn,10ud-Cellar Wall w Ext. Insul.,m2,#DIV/0!,489
+r_values,r_values.assembly_10,10ud-Cellar Wall w Ext. Insul.,enerphit_by_component,EnerPHit By Component,10ud-Cellar Wall w Ext. Insul.,m2,#DIV/0!,489
+r_values,r_values.assembly_10,10ud-Cellar Wall w Ext. Insul.,phi_low_energy_building,PHI Low Energy Building,10ud-Cellar Wall w Ext. Insul.,m2,#DIV/0!,489
+r_values,r_values.assembly_10,10ud-Cellar Wall w Ext. Insul.,enerphit_by_demand,EnerPHit By Demand,10ud-Cellar Wall w Ext. Insul.,m2,#DIV/0!,489
+r_values,r_values.gt_a,Gt-A,code_minimum,Code Minimum,Gt-A,kFh/y,83.6471712151,490
+r_values,r_values.gt_a,Gt-A,as_drawn,As-Drawn,Gt-A,kFh/y,84.1010398236,490
+r_values,r_values.gt_a,Gt-A,enerphit_by_component,EnerPHit By Component,Gt-A,kFh/y,83.8108161784,490
+r_values,r_values.gt_a,Gt-A,phi_low_energy_building,PHI Low Energy Building,Gt-A,kFh/y,83.6014735206,490
+r_values,r_values.gt_a,Gt-A,enerphit_by_demand,EnerPHit By Demand,Gt-A,kFh/y,83.6897259034,490
+r_values,r_values.gt_b,Gt-B,code_minimum,Code Minimum,Gt-B,kFh/y,8.31316788858,491
+r_values,r_values.gt_b,Gt-B,as_drawn,As-Drawn,Gt-B,kFh/y,9.43840633672,491
+r_values,r_values.gt_b,Gt-B,enerphit_by_component,EnerPHit By Component,Gt-B,kFh/y,31.1736227468,491
+r_values,r_values.gt_b,Gt-B,phi_low_energy_building,PHI Low Energy Building,Gt-B,kFh/y,38.0240409665,491
+r_values,r_values.gt_b,Gt-B,enerphit_by_demand,EnerPHit By Demand,Gt-B,kFh/y,42.4377536274,491
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,code_minimum,Code Minimum,Certification Compliant?,,No,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,as_drawn,As-Drawn,Certification Compliant?,,No,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,enerphit_by_component,EnerPHit By Component,Certification Compliant?,,No,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,phi_low_energy_building,PHI Low Energy Building,Certification Compliant?,,No,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,enerphit_by_demand,EnerPHit By Demand,Certification Compliant?,,Yes,493
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,code_minimum,Code Minimum,Peak Heat Load,Btuh,87115.1455727,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,as_drawn,As-Drawn,Peak Heat Load,Btuh,59529.2395016,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,enerphit_by_component,EnerPHit By Component,Peak Heat Load,Btuh,42290.2023417,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,phi_low_energy_building,PHI Low Energy Building,Peak Heat Load,Btuh,32687.5550581,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,enerphit_by_demand,EnerPHit By Demand,Peak Heat Load,Btuh,28694.8799945,497
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,code_minimum,Code Minimum,Peak Sensible Cooling Load,Btuh,20520.6635073,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,as_drawn,As-Drawn,Peak Sensible Cooling Load,Btuh,17071.1471144,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,enerphit_by_component,EnerPHit By Component,Peak Sensible Cooling Load,Btuh,14533.8603751,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,phi_low_energy_building,PHI Low Energy Building,Peak Sensible Cooling Load,Btuh,14350.9793009,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,enerphit_by_demand,EnerPHit By Demand,Peak Sensible Cooling Load,Btuh,14527.141127,498
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,code_minimum,Code Minimum,Peak Latent Cooling Load,Btuh,13488.1886156,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,as_drawn,As-Drawn,Peak Latent Cooling Load,Btuh,9691.23205125,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,enerphit_by_component,EnerPHit By Component,Peak Latent Cooling Load,Btuh,9691.23205125,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,phi_low_energy_building,PHI Low Energy Building,Peak Latent Cooling Load,Btuh,9292.85769951,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,enerphit_by_demand,EnerPHit By Demand,Peak Latent Cooling Load,Btuh,8894.48334778,499
+co2e,co2e.heating,Heating,code_minimum,Code Minimum,Heating,tonsCO2e,8.39372096361,502
+co2e,co2e.heating,Heating,as_drawn,As-Drawn,Heating,tonsCO2e,5.87689535191,502
+co2e,co2e.heating,Heating,enerphit_by_component,EnerPHit By Component,Heating,tonsCO2e,3.80921853564,502
+co2e,co2e.heating,Heating,phi_low_energy_building,PHI Low Energy Building,Heating,tonsCO2e,2.75549210561,502
+co2e,co2e.heating,Heating,enerphit_by_demand,EnerPHit By Demand,Heating,tonsCO2e,2.39952591846,502
+co2e,co2e.cooling,Cooling,code_minimum,Code Minimum,Cooling,tonsCO2e,0.945283762679,503
+co2e,co2e.cooling,Cooling,as_drawn,As-Drawn,Cooling,tonsCO2e,0.599340018781,503
+co2e,co2e.cooling,Cooling,enerphit_by_component,EnerPHit By Component,Cooling,tonsCO2e,0.529910437178,503
+co2e,co2e.cooling,Cooling,phi_low_energy_building,PHI Low Energy Building,Cooling,tonsCO2e,0.507398171034,503
+co2e,co2e.cooling,Cooling,enerphit_by_demand,EnerPHit By Demand,Cooling,tonsCO2e,0.50940331848,503
+co2e,co2e.dhw,DHW,code_minimum,Code Minimum,DHW,tonsCO2e,0.919117406938,504
+co2e,co2e.dhw,DHW,as_drawn,As-Drawn,DHW,tonsCO2e,0.923479691993,504
+co2e,co2e.dhw,DHW,enerphit_by_component,EnerPHit By Component,DHW,tonsCO2e,0.90533892117,504
+co2e,co2e.dhw,DHW,phi_low_energy_building,PHI Low Energy Building,DHW,tonsCO2e,0.891285611969,504
+co2e,co2e.dhw,DHW,enerphit_by_demand,EnerPHit By Demand,DHW,tonsCO2e,0.887696359604,504
+co2e,co2e.dishwashing,Dishwashing,code_minimum,Code Minimum,Dishwashing,tonsCO2e,0.05849432012,505
+co2e,co2e.dishwashing,Dishwashing,as_drawn,As-Drawn,Dishwashing,tonsCO2e,0.05849432012,505
+co2e,co2e.dishwashing,Dishwashing,enerphit_by_component,EnerPHit By Component,Dishwashing,tonsCO2e,0.05849432012,505
+co2e,co2e.dishwashing,Dishwashing,phi_low_energy_building,PHI Low Energy Building,Dishwashing,tonsCO2e,0.05849432012,505
+co2e,co2e.dishwashing,Dishwashing,enerphit_by_demand,EnerPHit By Demand,Dishwashing,tonsCO2e,0.05849432012,505
+co2e,co2e.clothes_washing,Clothes Washing,code_minimum,Code Minimum,Clothes Washing,tonsCO2e,0.0171611172681,506
+co2e,co2e.clothes_washing,Clothes Washing,as_drawn,As-Drawn,Clothes Washing,tonsCO2e,0.0171611172681,506
+co2e,co2e.clothes_washing,Clothes Washing,enerphit_by_component,EnerPHit By Component,Clothes Washing,tonsCO2e,0.0171611172681,506
+co2e,co2e.clothes_washing,Clothes Washing,phi_low_energy_building,PHI Low Energy Building,Clothes Washing,tonsCO2e,0.0171611172681,506
+co2e,co2e.clothes_washing,Clothes Washing,enerphit_by_demand,EnerPHit By Demand,Clothes Washing,tonsCO2e,0.0171611172681,506
+co2e,co2e.clothes_drying,Clothes Drying,code_minimum,Code Minimum,Clothes Drying,tonsCO2e,0.0825084654033,507
+co2e,co2e.clothes_drying,Clothes Drying,as_drawn,As-Drawn,Clothes Drying,tonsCO2e,0.0825084654033,507
+co2e,co2e.clothes_drying,Clothes Drying,enerphit_by_component,EnerPHit By Component,Clothes Drying,tonsCO2e,0.0825084654033,507
+co2e,co2e.clothes_drying,Clothes Drying,phi_low_energy_building,PHI Low Energy Building,Clothes Drying,tonsCO2e,0.0825084654033,507
+co2e,co2e.clothes_drying,Clothes Drying,enerphit_by_demand,EnerPHit By Demand,Clothes Drying,tonsCO2e,0.0825084654033,507
+co2e,co2e.refrigerator,Refrigerator,code_minimum,Code Minimum,Refrigerator,tonsCO2e,0.1095438,508
+co2e,co2e.refrigerator,Refrigerator,as_drawn,As-Drawn,Refrigerator,tonsCO2e,0.1095438,508
+co2e,co2e.refrigerator,Refrigerator,enerphit_by_component,EnerPHit By Component,Refrigerator,tonsCO2e,0.1095438,508
+co2e,co2e.refrigerator,Refrigerator,phi_low_energy_building,PHI Low Energy Building,Refrigerator,tonsCO2e,0.1095438,508
+co2e,co2e.refrigerator,Refrigerator,enerphit_by_demand,EnerPHit By Demand,Refrigerator,tonsCO2e,0.1095438,508
+co2e,co2e.cooking,Cooking,code_minimum,Code Minimum,Cooking,tonsCO2e,0,509
+co2e,co2e.cooking,Cooking,as_drawn,As-Drawn,Cooking,tonsCO2e,0,509
+co2e,co2e.cooking,Cooking,enerphit_by_component,EnerPHit By Component,Cooking,tonsCO2e,0,509
+co2e,co2e.cooking,Cooking,phi_low_energy_building,PHI Low Energy Building,Cooking,tonsCO2e,0,509
+co2e,co2e.cooking,Cooking,enerphit_by_demand,EnerPHit By Demand,Cooking,tonsCO2e,0,509
+co2e,co2e.phi_lighting,PHI Lighting,code_minimum,Code Minimum,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_lighting,PHI Lighting,as_drawn,As-Drawn,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_lighting,PHI Lighting,enerphit_by_component,EnerPHit By Component,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_lighting,PHI Lighting,phi_low_energy_building,PHI Low Energy Building,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_lighting,PHI Lighting,enerphit_by_demand,EnerPHit By Demand,PHI Lighting,tonsCO2e,0,510
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,code_minimum,Code Minimum,PHI Consumer Elec.,tonsCO2e,0.160652419865,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,as_drawn,As-Drawn,PHI Consumer Elec.,tonsCO2e,0.160652419865,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,enerphit_by_component,EnerPHit By Component,PHI Consumer Elec.,tonsCO2e,0.160652419865,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,phi_low_energy_building,PHI Low Energy Building,PHI Consumer Elec.,tonsCO2e,0.160652419865,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,enerphit_by_demand,EnerPHit By Demand,PHI Consumer Elec.,tonsCO2e,0.160652419865,511
+co2e,co2e.phi_small_appliances,PHI Small Appliances,code_minimum,Code Minimum,PHI Small Appliances,tonsCO2e,0.016896781032,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,as_drawn,As-Drawn,PHI Small Appliances,tonsCO2e,0.016896781032,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,enerphit_by_component,EnerPHit By Component,PHI Small Appliances,tonsCO2e,0.016896781032,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,phi_low_energy_building,PHI Low Energy Building,PHI Small Appliances,tonsCO2e,0.016896781032,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,enerphit_by_demand,EnerPHit By Demand,PHI Small Appliances,tonsCO2e,0.016896781032,512
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,code_minimum,Code Minimum,Phius Int. Lighting,tonsCO2e,0,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,as_drawn,As-Drawn,Phius Int. Lighting,tonsCO2e,0,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,enerphit_by_component,EnerPHit By Component,Phius Int. Lighting,tonsCO2e,0,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,phi_low_energy_building,PHI Low Energy Building,Phius Int. Lighting,tonsCO2e,0,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,enerphit_by_demand,EnerPHit By Demand,Phius Int. Lighting,tonsCO2e,0,513
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,code_minimum,Code Minimum,Phius Ext. Lighting,tonsCO2e,0,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,as_drawn,As-Drawn,Phius Ext. Lighting,tonsCO2e,0,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,enerphit_by_component,EnerPHit By Component,Phius Ext. Lighting,tonsCO2e,0,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,phi_low_energy_building,PHI Low Energy Building,Phius Ext. Lighting,tonsCO2e,0,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,enerphit_by_demand,EnerPHit By Demand,Phius Ext. Lighting,tonsCO2e,0,514
+co2e,co2e.phius_mel,Phius MEL,code_minimum,Code Minimum,Phius MEL,tonsCO2e,0,515
+co2e,co2e.phius_mel,Phius MEL,as_drawn,As-Drawn,Phius MEL,tonsCO2e,0,515
+co2e,co2e.phius_mel,Phius MEL,enerphit_by_component,EnerPHit By Component,Phius MEL,tonsCO2e,0,515
+co2e,co2e.phius_mel,Phius MEL,phi_low_energy_building,PHI Low Energy Building,Phius MEL,tonsCO2e,0,515
+co2e,co2e.phius_mel,Phius MEL,enerphit_by_demand,EnerPHit By Demand,Phius MEL,tonsCO2e,0,515
+co2e,co2e.aux_elec,Aux Elec,code_minimum,Code Minimum,Aux Elec,tonsCO2e,1.01872754941,516
+co2e,co2e.aux_elec,Aux Elec,as_drawn,As-Drawn,Aux Elec,tonsCO2e,0.462009180554,516
+co2e,co2e.aux_elec,Aux Elec,enerphit_by_component,EnerPHit By Component,Aux Elec,tonsCO2e,0.462009180554,516
+co2e,co2e.aux_elec,Aux Elec,phi_low_energy_building,PHI Low Energy Building,Aux Elec,tonsCO2e,0.426078889767,516
+co2e,co2e.aux_elec,Aux Elec,enerphit_by_demand,EnerPHit By Demand,Aux Elec,tonsCO2e,0.26905888016,516
+co2e,co2e.ipcc_limit,IPCC Limit,code_minimum,Code Minimum,IPCC Limit,tonsCO2e,3.51199518882,517
+co2e,co2e.ipcc_limit,IPCC Limit,as_drawn,As-Drawn,IPCC Limit,tonsCO2e,3.51199518882,517
+co2e,co2e.ipcc_limit,IPCC Limit,enerphit_by_component,EnerPHit By Component,IPCC Limit,tonsCO2e,3.51199518882,517
+co2e,co2e.ipcc_limit,IPCC Limit,phi_low_energy_building,PHI Low Energy Building,IPCC Limit,tonsCO2e,3.51199518882,517
+co2e,co2e.ipcc_limit,IPCC Limit,enerphit_by_demand,EnerPHit By Demand,IPCC Limit,tonsCO2e,3.51199518882,517
+primary_energy_renewable,primary_energy_renewable.heating,Heating,code_minimum,Code Minimum,Heating,kWh,51181.2253879,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,as_drawn,As-Drawn,Heating,kWh,35834.7277556,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,enerphit_by_component,EnerPHit By Component,Heating,kWh,23226.9422905,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,phi_low_energy_building,PHI Low Energy Building,Heating,kWh,16801.7811318,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,enerphit_by_demand,EnerPHit By Demand,Heating,kWh,14631.2556004,520
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,code_minimum,Code Minimum,Cooling,kWh,5787.922738,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,as_drawn,As-Drawn,Cooling,kWh,3668.84171864,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,enerphit_by_component,EnerPHit By Component,Cooling,kWh,3248.40287643,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,phi_low_energy_building,PHI Low Energy Building,Cooling,kWh,3109.67857916,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,enerphit_by_demand,EnerPHit By Demand,Cooling,kWh,3120.15298557,521
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,code_minimum,Code Minimum,DHW,kWh,4296.68706495,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,as_drawn,As-Drawn,DHW,kWh,4317.07986094,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,enerphit_by_component,EnerPHit By Component,DHW,kWh,4232.27544449,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,phi_low_energy_building,PHI Low Energy Building,DHW,kWh,4166.57908035,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,enerphit_by_demand,EnerPHit By Demand,DHW,kWh,4149.80005506,522
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,code_minimum,Code Minimum,Dishwashing,kWh,285.338146927,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,as_drawn,As-Drawn,Dishwashing,kWh,285.338146927,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,enerphit_by_component,EnerPHit By Component,Dishwashing,kWh,285.338146927,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,phi_low_energy_building,PHI Low Energy Building,Dishwashing,kWh,285.338146927,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,enerphit_by_demand,EnerPHit By Demand,Dishwashing,kWh,285.338146927,523
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,code_minimum,Code Minimum,Clothes Washing,kWh,83.7127671616,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,as_drawn,As-Drawn,Clothes Washing,kWh,83.7127671616,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,enerphit_by_component,EnerPHit By Component,Clothes Washing,kWh,83.7127671616,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,phi_low_energy_building,PHI Low Energy Building,Clothes Washing,kWh,83.7127671616,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,enerphit_by_demand,EnerPHit By Demand,Clothes Washing,kWh,83.7127671616,524
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,code_minimum,Code Minimum,Clothes Drying,kWh,402.48031904,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,as_drawn,As-Drawn,Clothes Drying,kWh,402.48031904,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,enerphit_by_component,EnerPHit By Component,Clothes Drying,kWh,402.48031904,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,phi_low_energy_building,PHI Low Energy Building,Clothes Drying,kWh,402.48031904,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,enerphit_by_demand,EnerPHit By Demand,Clothes Drying,kWh,402.48031904,525
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,code_minimum,Code Minimum,Refrigerator,kWh,534.36,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,as_drawn,As-Drawn,Refrigerator,kWh,534.36,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,enerphit_by_component,EnerPHit By Component,Refrigerator,kWh,534.36,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,phi_low_energy_building,PHI Low Energy Building,Refrigerator,kWh,534.36,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,enerphit_by_demand,EnerPHit By Demand,Refrigerator,kWh,534.36,526
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,code_minimum,Code Minimum,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,as_drawn,As-Drawn,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,enerphit_by_component,EnerPHit By Component,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,phi_low_energy_building,PHI Low Energy Building,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,enerphit_by_demand,EnerPHit By Demand,Cooking,kWh,0,527
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,code_minimum,Code Minimum,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,as_drawn,As-Drawn,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,enerphit_by_component,EnerPHit By Component,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,phi_low_energy_building,PHI Low Energy Building,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,enerphit_by_demand,EnerPHit By Demand,PHI Lighting,kWh,0,528
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,code_minimum,Code Minimum,PHI Consumer Elec.,kWh,783.670340807,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,as_drawn,As-Drawn,PHI Consumer Elec.,kWh,783.670340807,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,enerphit_by_component,EnerPHit By Component,PHI Consumer Elec.,kWh,783.670340807,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,phi_low_energy_building,PHI Low Energy Building,PHI Consumer Elec.,kWh,783.670340807,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,enerphit_by_demand,EnerPHit By Demand,PHI Consumer Elec.,kWh,783.670340807,529
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,code_minimum,Code Minimum,PHI Small Appliances,kWh,82.4233221074,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,as_drawn,As-Drawn,PHI Small Appliances,kWh,82.4233221074,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,enerphit_by_component,EnerPHit By Component,PHI Small Appliances,kWh,82.4233221074,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,phi_low_energy_building,PHI Low Energy Building,PHI Small Appliances,kWh,82.4233221074,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,enerphit_by_demand,EnerPHit By Demand,PHI Small Appliances,kWh,82.4233221074,530
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,code_minimum,Code Minimum,Phius Int. Lighting,kWh,0,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,as_drawn,As-Drawn,Phius Int. Lighting,kWh,0,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,enerphit_by_component,EnerPHit By Component,Phius Int. Lighting,kWh,0,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,phi_low_energy_building,PHI Low Energy Building,Phius Int. Lighting,kWh,0,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,enerphit_by_demand,EnerPHit By Demand,Phius Int. Lighting,kWh,0,531
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,code_minimum,Code Minimum,Phius Ext. Lighting,kWh,0,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,as_drawn,As-Drawn,Phius Ext. Lighting,kWh,0,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,enerphit_by_component,EnerPHit By Component,Phius Ext. Lighting,kWh,0,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,phi_low_energy_building,PHI Low Energy Building,Phius Ext. Lighting,kWh,0,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,enerphit_by_demand,EnerPHit By Demand,Phius Ext. Lighting,kWh,0,532
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,code_minimum,Code Minimum,Phius MEL,kWh,0,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,as_drawn,As-Drawn,Phius MEL,kWh,0,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,enerphit_by_component,EnerPHit By Component,Phius MEL,kWh,0,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,phi_low_energy_building,PHI Low Energy Building,Phius MEL,kWh,0,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,enerphit_by_demand,EnerPHit By Demand,Phius MEL,kWh,0,533
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,code_minimum,Code Minimum,Aux Elec,kWh,4969.40268005,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,as_drawn,As-Drawn,Aux Elec,kWh,2253.70331978,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,enerphit_by_component,EnerPHit By Component,Aux Elec,kWh,2253.70331978,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,phi_low_energy_building,PHI Low Energy Building,Aux Elec,kWh,2078.43360862,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,enerphit_by_demand,EnerPHit By Demand,Aux Elec,kWh,1312.48234225,534
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,code_minimum,Code Minimum,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,as_drawn,As-Drawn,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,enerphit_by_component,EnerPHit By Component,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,phi_low_energy_building,PHI Low Energy Building,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,enerphit_by_demand,EnerPHit By Demand,Solar PV,kWh,0,535
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),code_minimum,Code Minimum,Envelope Air Leakage Rate (q50),cfm/ft2,0.164234852945,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),code_minimum,Code Minimum,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,code_minimum,Code Minimum,Cold Air Duct Insulation Thickness,inches,0.984251975,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,code_minimum,Code Minimum,Heat Demand,kWh/yr,58668.2840792,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,code_minimum,Code Minimum,Cooling Demand,kWh/yr,2377.28689167,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,code_minimum,Code Minimum,Total Primary Energy,kWh/yr,123892.183433,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,code_minimum,Code Minimum,Total Site Energy,kWh/yr,47650.8397818,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),as_drawn,As-Drawn,Envelope Air Leakage Rate (q50),cfm/ft2,0.0547449509816,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),as_drawn,As-Drawn,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,as_drawn,As-Drawn,Cold Air Duct Insulation Thickness,inches,0.984251975,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,as_drawn,As-Drawn,Heat Demand,kWh/yr,41290.3247092,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,as_drawn,As-Drawn,Cooling Demand,kWh/yr,2187.88156561,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,as_drawn,As-Drawn,Total Primary Energy,kWh/yr,87797.3617156,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,as_drawn,As-Drawn,Total Site Energy,kWh/yr,33768.2160444,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),enerphit_by_component,EnerPHit By Component,Envelope Air Leakage Rate (q50),cfm/ft2,0.0547449509816,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),enerphit_by_component,EnerPHit By Component,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,enerphit_by_component,EnerPHit By Component,Cold Air Duct Insulation Thickness,inches,0.984251975,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,enerphit_by_component,EnerPHit By Component,Heat Demand,kWh/yr,25788.0833296,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,enerphit_by_component,EnerPHit By Component,Cooling Demand,kWh/yr,2015.73427639,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,enerphit_by_component,EnerPHit By Component,Total Primary Energy,kWh/yr,65018.3265992,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,enerphit_by_component,EnerPHit By Component,Total Site Energy,kWh/yr,25007.0486919,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),phi_low_energy_building,PHI Low Energy Building,Envelope Air Leakage Rate (q50),cfm/ft2,0.0437959607855,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),phi_low_energy_building,PHI Low Energy Building,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,phi_low_energy_building,PHI Low Energy Building,Cold Air Duct Insulation Thickness,inches,2.047244108,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,phi_low_energy_building,PHI Low Energy Building,Heat Demand,kWh/yr,17809.8314694,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,phi_low_energy_building,PHI Low Energy Building,Cooling Demand,kWh/yr,2337.92314985,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,phi_low_energy_building,PHI Low Energy Building,Total Primary Energy,kWh/yr,53115.1641195,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,phi_low_energy_building,PHI Low Energy Building,Total Site Energy,kWh/yr,20428.9092767,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),enerphit_by_demand,EnerPHit By Demand,Envelope Air Leakage Rate (q50),cfm/ft2,0.0328469705891,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),enerphit_by_demand,EnerPHit By Demand,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,enerphit_by_demand,EnerPHit By Demand,Cold Air Duct Insulation Thickness,inches,2.047244108,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,enerphit_by_demand,EnerPHit By Demand,Heat Demand,kWh/yr,15158.5055429,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,enerphit_by_demand,EnerPHit By Demand,Cooling Demand,kWh/yr,2600.14459323,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,enerphit_by_demand,EnerPHit By Demand,Total Primary Energy,kWh/yr,47676.6162155,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,enerphit_by_demand,EnerPHit By Demand,Total Site Energy,kWh/yr,18337.1600829,

@@ -1,0 +1,60 @@
+---
+kicker: '01'
+title: Resilience Assessment
+dek: How the house holds up through a week-long power outage in summer and in winter.
+---
+
+Alongside the whole-building annual-energy model in PHPP, the home was run through a detailed hourly model for two
+stress tests:
+
+1. A **summer heat wave with a full week of power outage**.
+2. A **winter storm with a full week of power outage**.
+
+Each test asks whether the house stays habitable with the heating and cooling off, on the envelope alone. The
+rules come from the [Phius REVIVE protocol](https://www.phius.org/phius-revive-2024), which sets the weather, the
+occupancy and the habitability thresholds. REVIVE weather is a designed stress sequence built from the local
+record and shifted toward a warmer future climate.
+
+- [Phius REVIVE 2024 Standard v24.1.1](https://www.phius.org/phius-revive-2024-standard-document)
+
+Each simulation runs nine days: one day of normal operation, the seven-day outage, and one day of recovery after
+the power returns. The house is modeled as five zones, one per level: **Level 00 (cellar)**, **Level 01**,
+**Level 02.A**, **Level 02.B** and **Level 03**. Results are reported for each zone.
+
+The weather file is the Phius REVIVE 2024 set for **Bridgeport Sikorsky Memorial Airport**, the nearest station.
+The winter outage runs January 20 through 26 and the summer outage July 27 through August 2. The plots count
+elapsed simulation days, with days 1 through 8 shaded as the outage.
+
+<div class="btwr-callout btwr-callout--critical">
+  <strong>Design implication</strong>
+  <span>Winter passes both criteria with room to spare: every zone stays above 54°F SET for the full week, and the coldest zone bottoms out at about 57°F SET. Summer misses one criterion: each above-grade level spends 12 hours in the Heat Index Danger band against an allowance of zero, with a peak of about 109°F. The cellar stays cool throughout. Shading at the sunroom and the exposed upper windows is the measure that moves the summer result, and it is still an open design decision.</span>
+</div>
+
+#### The governing criteria
+
+The REVIVE standard sets two criteria per season, and every zone must satisfy both.
+
+| Season | Criterion | Source |
+| --- | --- | --- |
+| Summer | Zero hours in the Danger or Extreme Danger Heat Index bands | §6.4.2(a) |
+| Summer | Zero deadly days under the Mora temperature and humidity method | §6.4.2(b) |
+| Winter | Zero hours below 36°F SET | §6.3.2(a) |
+| Winter | No more than 216°F-hours below the 54°F SET reference | §6.3.2(b) |
+
+The summer criterion is stricter than it first appears. The Danger band begins at about **103°F Heat Index**, well
+below the **125°F Extreme Danger** threshold, and the allowance for both is zero. Heat Index and SET both measure
+the thermal stress a person feels, combining air temperature with humidity, surface temperatures and air
+movement, so they differ from a thermostat reading.
+
+#### How to read these results
+
+REVIVE is a stress test rather than a design condition. A house that misses one criterion is still safe and
+comfortable in normal operation, and the As-Drawn package is a large comfort and durability improvement over
+the existing house. What the test shows is what happens when the power is out for a week, which is worth knowing
+for a house that will stand another century. The deadly-days check and a rerun with the final shading and envelope
+package are carried into the next phase.
+
+<div class="btwr-callout">
+  <strong>Where the design still has room to move</strong>
+  <span>In summer the levers are exterior shading at the sunroom and the exposed glazing, a tighter interior-shade specification, and a modest backup-power plan for cooling and dehumidification in one or two refuge rooms. In winter the levers are the 1.0 ACH50 target and continuity at the roof, window and cellar junctions, both already in the As-Drawn package. The cellar is the coolest place in the house in summer and the warmest in winter, and it is worth planning as the refuge room in both seasons.</span>
+</div>

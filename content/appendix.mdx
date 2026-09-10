@@ -1,8 +1,48 @@
 ---
-kicker: "06"
-title: "Appendix"
-dek: "Keep traceability available, but out of the primary decision narrative."
+kicker: '06'
+title: Appendix
+dek: Keep traceability available, but out of the primary decision narrative.
 ---
 
-Appendix content should help reviewers connect report claims back to PHPP rows, source PDFs, and model assumptions
-without making the main client narrative too dense.
+#### Model basis
+
+| Item | Value |
+| --- | --- |
+| Energy model | PHPP 10.6 EN, export of September 10, 2026 |
+| Recommended variant | As-Drawn (LePage windows at U-0.20, 1.0 ACH50, crawlspace floor retained) |
+| Climate data set | Greenwich, Connecticut (PHI cool-temperate); code Climate Zone 5A |
+| Electricity emission factor | EPA eGRID2023 Rev 2, NEWE subregion, 0.246 kg CO<sub>2</sub>e/kWh |
+| Resilience model | EnergyPlus via Honeybee, Phius REVIVE 2024 protocol |
+| Resilience weather | Phius REVIVE 2024, Bridgeport Sikorsky Memorial Airport |
+| Geometry source | R.S. Granoff Architects permit set (June 16, 2026) and CAD files of September 1, 2026 |
+| Treated floor area | 6,587 ft² |
+| Thermal envelope area | 18,335 ft² |
+| Airtightness test volume | 60,225 ft³ |
+| Window area | 1,355 ft² |
+| Occupancy, PHPP standard | 3.5 persons (PHI standard density for this floor area) |
+| Assembly studies | Flixo, September 8, 2026 |
+
+#### Open items carried into the next phase
+
+- The LePage window U-value of 0.20 is a schematic-level assumption from a previous BLDGTYP project with LePage.
+  Confirm it against LePage's product data for the sizes, glazing and frame options chosen here, and update the
+  model before the window order.
+- The window schedule in the drawing set and the window inputs in the model differ. The model values are the basis
+  of this report; the two will be reconciled against the proposed window order.
+- The summer resilience run will be repeated once shading and the final envelope package are set, and the
+  deadly-days check added. The current summer run also shows a small amount of heating and cooling energy inside
+  the outage window, which will be corrected in that rerun.
+- Cooking and lighting energy are carried inside the general household electricity allowance and will be broken out
+  before the site-energy total is used as a household budget.
+- Room-by-room heating and cooling loads, dehumidification sizing, and equipment selection are by the mechanical
+  designer. The peak loads in this report are whole-house PHPP figures for schematic sizing.
+- No ERV has been selected. The ventilation schedule still has the sunroom, the cellar rooms and the guest bath
+  unassigned, and no low-speed setting defined.
+- No photovoltaic generation is in the model.
+
+#### Units
+
+Energy demand figures are whole-building annual totals in kWh/yr. Where a Passive House limit is written per unit
+of floor area, we have multiplied it by this building's treated floor area of 6,587 ft² (612 m²) and report the
+whole-building allowance. Peak loads stay in Btu/h. R-values are effective whole-assembly values in
+hr-ft²-F/Btu; window U-values are installed values in Btu/hr-ft²-F.

@@ -1,15 +1,35 @@
 ---
-kicker: "03"
-title: "Site Energy"
-dek: "Review annual delivered energy by end use and variant."
+kicker: '03'
+title: Site Energy
+dek: Annual purchased energy by end use and variant.
 ---
 
-"Site Energy" represents the energy purchased by the building and delivered to the site by the utility. This is the most
-typical energy use figure assessed when considering a site "Net-Zero" building energy balance, or when considering the
-annual cost of energy for the building. This site-energy total is made up of 6 main groups: heating, cooling, hot-water,
-lighting, electric equipment (appliances, electric-vehicles, etc), and pumps / fans.
+"Site energy" is the energy the utility delivers to the house each year: heating, cooling, hot water, appliances,
+lighting, and the fans and pumps that run the equipment. It is the figure behind the annual energy bill, and the
+one used to judge a "net-zero" balance against on-site solar. Heating demand, used elsewhere in this report,
+counts the heat the rooms need; the purchased heating energy is smaller because the heat pump delivers about two
+units of heat for each unit of electricity in this climate.
 
-In order to assess the performance of the home across a range of options, we have simulated 5 distinct variants with
-different energy efficiency measures (see the [Model Variants](#model-variants) section for all the details on the
-specific variant inputs). In this case, compared to the "existing" home any of the variants assessed are likely to
-provide significant reductions in site energy consumption.
+All variants are modeled all-electric, with heat-pump heating, cooling and hot water, which is the design intent
+for the project.
+
+| Variant | Purchased energy |
+| --- | ---: |
+| Code Minimum | about 47,100 kWh/yr |
+| **As-Drawn (Recommended)** | **about 33,800 kWh/yr** |
+| EnerPHit By Component | about 25,000 kWh/yr |
+| PHI Low Energy Building | about 20,400 kWh/yr |
+| EnerPHit By Demand | about 18,300 kWh/yr |
+
+Two things to note in the results: Heating dominates in the code-minimum case and falls fastest as the
+envelope improves, which is why the envelope work returns more impact than anything else on this project. The
+As-Drawn package uses about **28% less purchased energy than code minimum**, and its fan and pump energy is less
+than half, because the tighter house and the ERV need less of both. Past that point, hot water and appliances set
+the floor on annual consumption, and the remaining levers are equipment selection, occupant habits, and any future
+rooftop solar.
+
+The step from As-Drawn to EnerPHit By Component, about 8,800 kWh/yr, is the price of the uninsulated crawlspace
+floor, the LePage windows, the walls without exterior insulation and the junction detailing together.
+
+These are design estimates for comparing options, and they will differ from utility bills, which depend on the
+weather in a given year and how the house is used.

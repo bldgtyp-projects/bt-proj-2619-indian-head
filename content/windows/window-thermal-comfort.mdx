@@ -1,27 +1,15 @@
 ---
-kicker: "01"
-title: "Window Thermal Comfort"
-dek: "Connect window package assumptions to occupant comfort near large glazed areas."
+kicker: '01'
+title: Window Thermal Comfort
+dek: Connect the window package to comfort next to the glass, especially at the sunroom.
 ---
 
-In any high-performance building, both the energy and occupant comfort impacts of the glazing must be carefully
-assessed. For a building seeking any of the PHI or Phius certifications, a very stringent evaluation and quantification
-of this thermal comfort impact must be executed. This comfort evaluation looks at both the overall occupant comfort as a
-result of air-temperature and relative-humidity but also the localized thermal discomfort caused by cold-surfaces and
-drafts at the glazing surface.
+Replacement windows are the largest single performance decision in this renovation. The **As Drawn variant** is modeled with **LePage** wood windows using a whole-window **U-0.20 Btu/hr-ft²-F**, a schematic-level value taken from previous projects with LePage, to be confirmed with LePage's final product data for the sizes and glazing chosen here. For comparison, the EnerPHit By Component and Low Energy Building variants carry U-0.16, and the EnerPHit By Demand comparison U-0.14.
 
-In particular, the localized discomfort which results from a radiant temperature asymmetry (a difference in the
-temperature of the surfaces surrounding the body) must be assessed in order to evaluate the possibility of eliminating
-perimeter heating. If the radiant temperature asymmetry exceeds a certain level, a compensating heat source may be
-required in order to offset the potential discomfort. Typically, this would mean a radiator of some form, installed
-beneath the window.
+Windows affect comfort as well as energy. In winter; the glass is the coldest surface in the room and when it runs much colder than the other surfaces around a person, the room feels drafty even with the air at a normal temperature. Comfort standards put that surface-temperature difference at no more than about 7.6°F. Passive House practice handles it by setting a window U-value that keeps the glass warm enough, so the perimeter radiators that usually compensate can come out.
 
-Many engineering reference standards suggests that ideal thermal comfort is found when there are temperature differences
-of less than 7.6°F [4.2°K] between all the surfaces around a person’s body. The windows are important in this respect,
-as this is where the coldest surface temperatures in the building will typically occur during the winter months.
+For this climate, PHPP puts that comfort threshold at an installed **U-0.165 Btu/hr-ft²-F (about R-6.1)**, based on a design outdoor temperature of about **9.5°F**. The LePage windows at U-0.20 sit above this target. In energy terms the difference is modest, about 2,500 kWh/yr of heating demand against a U-0.16 window across the whole house. In comfort terms it matters in one place: the sunroom, where the glazing runs close to full height and people sit beside it. The small punched windows elsewhere have a much lower view factor and will feel fine at U-0.20.
 
-For <Var k="narrative.energy_code.zone" />’s winter comfort-design weather conditions [ <Var k="narrative.climate.ashrae_winter_design_temp_F"/>°F (<Var k="narrative.climate.ashrae_winter_design_temp_C"/>°C) ], Passive House certification guidelines for
-this climate would recommend that as long as windows with an Installed R-Value higher than <Var k="narrative.windows.comfort_target_r_value" /> hr-ft2-F/Btu [ U-Value
-less than <Var k="narrative.windows.comfort_target_u_value" /> Btu/hr-ft2-F ] are used this will lead to surface temperatures which PHI finds acceptable for thermal
-comfort. Note, for smaller windows with a lower ‘view-factor’ (less visible to the occupants) slightly lower R-Values
-may still achieve the desired thermal comfort targets.
+Two ways to close the gap at the sunroom. Ask LePage for their best glazing package for those units, since a triple-glazed unit with a warm-edge spacer can reach the threshold in a wood frame. Or keep a heat source near the sunroom glass, a short run of floor or radiant heat, so the cold-surface effect is offset on the coldest days. Either way, the installed value depends on the frame, the glass fraction and the reveal detail as much as on the product rating, so draw the installation detail rather than leaving it to the installer.
+
+All five variants carry a **0.40 SHGC** (solar heat gain coefficient, the share of sunlight that passes through the glass as heat). The final glazing specification will be set against the seasonal radiation studies that follow, and the model's window inputs will be reconciled with the proposed window order.

@@ -1,17 +1,16 @@
 ---
-kicker: "06"
-title: "Climate Data"
-dek: "Document the climate file and monthly conditions driving the model."
+kicker: '06'
+title: Climate Data
+dek: The Greenwich, Connecticut climate data driving the model.
 ---
 
-For all the modeled cases shown in the following sections, climate data from the nearest weather station was used.
+The energy model uses the PHI climate data set for **Greenwich, Connecticut**, the closest station to the site.
+PHI classifies the location as **cool-temperate**, and the building code places it in **Climate Zone 5A**. The two
+systems describe the same weather for different purposes: the PHI class sets the Passive House component targets,
+and the code zone sets the prescriptive code minimums.
 
-<VarLink hrefKey="narrative.climate.weather_station_url" target="_blank" rel="noopener noreferrer">
-    - <Var k="narrative.climate.weather_station_name" />
-</VarLink>
-
-The data from this climate set is illustrated here for reference purposes. It should be noted that 
-for the Passive House energy models, monthly average climate data are used and therefore may 
-appear different from the more typical ASHRAE hourly data shown in some other US Energy Modeling 
-programs. The monthly data is all derived from the same sources (local weather stations) as the 
-typical ASHRAE data however.
+Monthly mean outdoor temperatures run from about **29°F in January to 74°F in July**. PHPP combines these
+monthly temperatures and solar radiation with the building geometry, shading and occupancy to calculate annual
+heating and cooling demand. The monthly averages come from the same local weather records as the hourly data
+used by other US energy programs; the [Resilience](/resilience/) assessment uses the full hourly weather for its
+outage simulations.

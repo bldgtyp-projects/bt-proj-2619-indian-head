@@ -1,0 +1,108 @@
+[
+  {
+    "season": "summer",
+    "plot": 1,
+    "variable": "Zone Heat Index",
+    "zones": [
+      "LEVEL_00",
+      "LEVEL_01",
+      "LEVEL_02.A",
+      "LEVEL_02.B",
+      "LEVEL_03"
+    ],
+    "hours": 216,
+    "source_sql": "15_Phius_REVIVE/summer/Indian_Head_Rd_260908/openstudio/run/eplusout.sql",
+    "source_sql_sha256": "0ff336f24f4f9313f6bb9ed8dcebce0aefa192fba860b759abec3e272591602f",
+    "temperature_conversion": "F = C * 1.8 + 32; RH unchanged",
+    "x_axis": "hour index / 24; intended outage [1,8)"
+  },
+  {
+    "season": "summer",
+    "plot": 2,
+    "variable": "Zone Mean Air Temperature",
+    "zones": [
+      "LEVEL_00",
+      "LEVEL_01",
+      "LEVEL_02.A",
+      "LEVEL_02.B",
+      "LEVEL_03",
+      "Environment"
+    ],
+    "hours": 216,
+    "source_sql": "15_Phius_REVIVE/summer/Indian_Head_Rd_260908/openstudio/run/eplusout.sql",
+    "source_sql_sha256": "0ff336f24f4f9313f6bb9ed8dcebce0aefa192fba860b759abec3e272591602f",
+    "temperature_conversion": "F = C * 1.8 + 32; RH unchanged",
+    "x_axis": "hour index / 24; intended outage [1,8)"
+  },
+  {
+    "season": "summer",
+    "plot": 3,
+    "variable": "Zone Air Relative Humidity",
+    "zones": [
+      "LEVEL_00",
+      "LEVEL_01",
+      "LEVEL_02.A",
+      "LEVEL_02.B",
+      "LEVEL_03",
+      "Environment"
+    ],
+    "hours": 216,
+    "source_sql": "15_Phius_REVIVE/summer/Indian_Head_Rd_260908/openstudio/run/eplusout.sql",
+    "source_sql_sha256": "0ff336f24f4f9313f6bb9ed8dcebce0aefa192fba860b759abec3e272591602f",
+    "temperature_conversion": "F = C * 1.8 + 32; RH unchanged",
+    "x_axis": "hour index / 24; intended outage [1,8)"
+  },
+  {
+    "season": "winter",
+    "plot": 1,
+    "variable": "Zone Thermal Comfort Pierce Model Standard Effective Temperature",
+    "zones": [
+      "LEVEL_00",
+      "LEVEL_01",
+      "LEVEL_02.A",
+      "LEVEL_02.B",
+      "LEVEL_03"
+    ],
+    "hours": 216,
+    "source_sql": "15_Phius_REVIVE/winter/Indian_Head_Rd_260908/openstudio/run/eplusout.sql",
+    "source_sql_sha256": "6bc02e79bcc4db6b3b088d6427356ab470e36800f897703cfc493fa4e7a5141c",
+    "temperature_conversion": "F = C * 1.8 + 32; RH unchanged",
+    "x_axis": "hour index / 24; intended outage [1,8)"
+  },
+  {
+    "season": "winter",
+    "plot": 2,
+    "variable": "Zone Mean Air Temperature",
+    "zones": [
+      "LEVEL_00",
+      "LEVEL_01",
+      "LEVEL_02.A",
+      "LEVEL_02.B",
+      "LEVEL_03",
+      "Environment"
+    ],
+    "hours": 216,
+    "source_sql": "15_Phius_REVIVE/winter/Indian_Head_Rd_260908/openstudio/run/eplusout.sql",
+    "source_sql_sha256": "6bc02e79bcc4db6b3b088d6427356ab470e36800f897703cfc493fa4e7a5141c",
+    "temperature_conversion": "F = C * 1.8 + 32; RH unchanged",
+    "x_axis": "hour index / 24; intended outage [1,8)"
+  },
+  {
+    "season": "winter",
+    "plot": 3,
+    "variable": "Zone Air Relative Humidity",
+    "zones": [
+      "LEVEL_00",
+      "LEVEL_01",
+      "LEVEL_02.A",
+      "LEVEL_02.B",
+      "LEVEL_03",
+      "Environment"
+    ],
+    "hours": 216,
+    "source_sql": "15_Phius_REVIVE/winter/Indian_Head_Rd_260908/openstudio/run/eplusout.sql",
+    "source_sql_sha256": "6bc02e79bcc4db6b3b088d6427356ab470e36800f897703cfc493fa4e7a5141c",
+    "temperature_conversion": "F = C * 1.8 + 32; RH unchanged",
+    "x_axis": "hour index / 24; intended outage [1,8)"
+  }
+]

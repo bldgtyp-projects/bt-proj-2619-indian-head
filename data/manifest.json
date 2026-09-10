@@ -1,9 +1,55 @@
 {
-  "status": "pending",
-  "project": {
-    "slug": "0000-example-report",
-    "name": "Example Passive House Report"
-  },
-  "schema_version": "0.1.0",
-  "variants": []
+  "schema_version": "1.0.0",
+  "phpp_version": "10.6",
+  "generated_at": "2026-09-10T14:58:46.640889Z",
+  "generator": "btwr@0.0.1",
+  "status": "ok",
+  "variants": [
+    {
+      "id": "code_minimum",
+      "name": "Code Minimum",
+      "order": 0,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "G"
+    },
+    {
+      "id": "as_drawn",
+      "name": "As-Drawn",
+      "order": 1,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "H"
+    },
+    {
+      "id": "enerphit_by_component",
+      "name": "EnerPHit By Component",
+      "order": 2,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "I"
+    },
+    {
+      "id": "phi_low_energy_building",
+      "name": "PHI Low Energy Building",
+      "order": 3,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "J"
+    },
+    {
+      "id": "enerphit_by_demand",
+      "name": "EnerPHit By Demand",
+      "order": 4,
+      "color": "auto",
+      "recommended": true,
+      "source_column": "K"
+    }
+  ],
+  "recommended_variant_id": "enerphit_by_demand",
+  "source_workbook": {
+    "path": "/Users/em/Dropbox/bldgtyp/2619 Indian Head Rd/07_PHPP/2619-Indian-Head-Rd-260910.xlsx",
+    "sha256": "99206ae9ab4d8bbc0eb44c42cc983771983820c0834a09249940bbd19f65e38a",
+    "size_bytes": 13296170
+  }
 }

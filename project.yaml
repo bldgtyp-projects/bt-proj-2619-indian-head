@@ -1,26 +1,27 @@
 schema_version: 0.2.0
 slug: project-2619
 project_title: Indian Head Road Home
-client_name: Peter S.
-building_name: TBD
-phase: Design Analysis
-report_date: '2026-09-08'
+client_name: Granoff Architects
+building_name: Riverside CT Renovation
+phase: "Design Phase Analysis"
+report_date: '2026-09-11'
 prepared_by: bldgtyp, llc
 contact_email: ed@bldgtyp.com
-target_standard: TBD
-certification_program: TBD
-certification_path: TBD
-recommended_variant_id: null
+target_standard: EnerPHit component targets as design guide
+certification_program: Passive House Institute (PHI)
+certification_path: "As-Drawn package; EnerPHit component targets as design guide; certification not recommended"
+recommended_variant_id: as_drawn
 building:
-  address: TBD
-  city: TBD
-  state: TBD
-  climate_zone: TBD
-  building_type: TBD
-  total_num_occupants: null
+  address: 40 Indian Head Road
+  city: Riverside (Town of Greenwich)
+  state: CT
+  climate_zone: "5A \u2014 Moist"
+  building_type: Existing detached single-family home; gut renovation, re-cladding
+    and sunroom addition
+  total_num_occupants: 3.5119951888220493
 source_files:
-  phpp_path: ../07_PHPP/2619-Indian-Head-Rd-260908.xlsx
-  cad_files_received_date: null
+  phpp_path: ../07_PHPP/2619-Indian-Head-Rd-260910.xlsx
+  cad_files_received_date: '2026-09-01'
   data_dir: data
   assets_dir: public/assets
 publishing:
@@ -31,11 +32,11 @@ publishing:
     allowed_emails: []
 narrative:
   certification:
-    target: null
-    ph_ach_limit: null
+    target: "As-Drawn package; EnerPHit component targets without certification"
+    ph_ach_limit: '1.0'
     phi_lcd_limit: null
     enph_hd_limit: null
-    enph_per_limit: null
+    enph_per_limit: '139'
     enph_bg_limit: null
     enph_ag_ext_limit: null
     enph_ag_int_limit: null
@@ -47,38 +48,52 @@ narrative:
     phius_nse_limit: null
     phius_cfm50_limit: null
   climate:
-    weather_station_name: null
+    weather_station_name: "Greenwich CT (Passipedia) \u2014 PHPP user-defined climate\
+      \ data"
     weather_station_url: null
-    state_name: null
-    state_name_abbreviation: null
+    state_name: Connecticut
+    state_name_abbreviation: CT
     ashrae_location_name: null
     ashrae_design_temps: null
     ashrae_winter_design_temp_F: null
     ashrae_winter_design_temp_C: null
   energy_code:
-    name: null
-    zone: null
-    link: null
-    code_base_url: null
-    code_airtightness_url: null
-    u_val_link: null
-    ach_link: null
-    ach_limit: null
-    window_min_u_value: null
+    name: "2022 Connecticut State Building Code \u2014 2021 IECC with CT amendments"
+    zone: Climate Zone 5A (Fairfield County)
+    link: https://portal.ct.gov/en/das/office-of-state-building-inspector/connecticut-state-building-code/regulations
+    code_base_url: https://portal.ct.gov/en/das/office-of-state-building-inspector/connecticut-state-building-code/regulations
+    code_airtightness_url: https://portal.ct.gov/-/media/DAS/Office-of-State-Building-Inspector/2022-State-Codes/2022-CSBC-Final.pdf#page=103
+    u_val_link: https://codes.iccsafe.org/s/IRC2021P3/part-iv-energy-conservation/IRC2021P3-Pt04-Ch11-SecN1102.1.2
+    ach_link: https://portal.ct.gov/-/media/DAS/Office-of-State-Building-Inspector/2022-State-Codes/2022-CSBC-Final.pdf#page=103
+    ach_limit: '3'
+    window_min_u_value: '0.30'
   co2:
-    subregion_name: null
-    epa_subgrid_name: null
-    occupancy: null
-    target_tons: null
-    taget_co2_per_person: null
+    subregion_name: "NEWE (New England), EPA eGRID2023 Rev 2"
+    epa_subgrid_name: "NEWE (New England), EPA eGRID2023 Rev 2"
+    occupancy: 3.512 (PHPP calculated occupancy; confirm household design occupancy)
+    target_tons: '3.512'
+    taget_co2_per_person: 1.0 (illustrative report benchmark only)
   windows:
-    ph_window_u_value: null
-    ph_window_r_value: null
-    comfort_target_r_value: null
-    comfort_target_u_value: null
+    ph_window_u_value: '0.20'
+    ph_window_r_value: '5.0'
+    comfort_target_r_value: '6.07'
+    comfort_target_u_value: '0.165'
   mechanical:
     erv:
       manufacturer_name: null
       type_name: null
       link: null
-  user_defined: {}
+  user_defined:
+    enerphit_certification_ach_limit: '1.0'
+    phpp_comfort_temperature_C: '-12.5'
+    phpp_comfort_temperature_F: '9.5'
+    phpp_comfort_u_value_SI: '0.936'
+    climate_review: Verification K10 and Climate D25 identify Greenwich; Climate D12
+      retains a Bridgeport label.
+    erv_selection: 'PHPP Addl vent N13: test_ventilator. Manufacturer/model not selected;
+      size at installed duty.'
+    draft_status: "Third draft for BLDGTYP review, 2026-09-10: five variants, As-Drawn recommended"
+    co2_electricity_factor_kg_per_kWh: 0.2464 (EPA eGRID2023 Rev 2, NEWE)
+custom_pages:
+- slug: resilience
+  label: Resilience

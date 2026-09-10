@@ -1,0 +1,75 @@
+---
+kicker: '03'
+title: Winter Standard Effective Temperature
+dek: Track the Standard Effective Temperature in each zone through the seven-day winter outage.
+---
+
+import plot1 from "./winter_SET_temperature-1.html?raw";
+import plot2 from "./winter_SET_temperature-2.html?raw";
+import plot3 from "./winter_SET_temperature-3.html?raw";
+import enhancement from "./winter_SET_temperature.js?raw";
+
+For winter, **Phius REVIVE** uses **Standard Effective Temperature (SET)**, a measure of how cold a space feels to
+a person that accounts for the surrounding surface temperatures, air movement and humidity as well as the air
+temperature. Every zone must satisfy both criteria:
+
+- **Zero hours** below about 36°F SET.
+- **No more than 216°F-hours** accumulated below the 54°F SET reference.
+
+<div class="btwr-callout">
+  <strong>Result: passes both</strong>
+  <span>All five zones stay above 54°F SET for the full seven-day outage. The lowest SET in any zone is about 57°F, so the house records zero hours below 36°F and zero degree-hours below 54°F against the 216 allowance.</span>
+</div>
+
+#### What the plots show
+
+Indoor air on the above-grade floors falls to about **48°F** by the end of the week, while outdoor air drops to
+about **−2°F**. SET stays above the air temperature because the walls, floors and windows of the insulated house
+stay warmer than the air, and the protocol assumes winter clothing. The house is cold by day seven, but well above
+the thresholds.
+
+The cellar holds heat best, at a minimum of about **62°F air temperature** and **69°F SET**, because it is coupled
+to the ground. The four above-grade levels decline together and warm a little each afternoon from sun through the
+windows, with Level 02.B the coolest of the four.
+
+The plots show SET, air temperature and relative humidity over the nine days. Hover for hourly values and use the
+legend to compare zones.
+
+#### What carries this result
+
+1. **Airtightness at 1.0 ACH50, tested early.** Once the insulation is in, air leakage is the main winter heat
+   loss. Resolve the fireplace dampers and combustion-air paths as part of the air barrier, and test the house in
+   its normal operating configuration.
+2. **Continuity at the junctions.** The roof intersections, window installations, rim joists, garage interface
+   and sunroom connection carry the winter result. The crawlspace floor stays as it is.
+3. **Keep plumbing inside the insulation.** Room air stays above 48°F, but a pipe in an exterior wall cavity or
+   near a leak can see colder conditions. Route supply piping inboard of the insulated envelope.
+4. **One backup-power plan serves both seasons.** The battery or generator considered for summer can carry a heat
+   pump or the ERV in winter. No heat from the fireplaces is credited in these results.
+
+<div class="btwr-callout">
+  <strong>How firm is this result?</strong>
+  <span>The margin is comfortable, and the plots reflect the current simulation output. The run will be repeated with the final envelope package, including the retained floor and fireplace conditions, before the next issue.</span>
+</div>
+
+<PrintableEmbed id="winter-plot-1" title="Winter: Standard Effective Temperature" printSrc="/assets/resilience/winter-1.svg" width={1200} height={650}>
+  <div class="btwr-plotly-embed" role="group" aria-label="Winter Standard Effective Temperature" set:html={plot1} />
+</PrintableEmbed>
+
+<PrintableEmbed id="winter-plot-2" title="Winter: Air Temperature" printSrc="/assets/resilience/winter-2.svg" width={1200} height={650}>
+  <div class="btwr-plotly-embed" role="group" aria-label="Winter air temperature" set:html={plot2} />
+</PrintableEmbed>
+
+<PrintableEmbed id="winter-plot-3" title="Winter: Relative Humidity" printSrc="/assets/resilience/winter-3.svg" width={1200} height={650}>
+  <div class="btwr-plotly-embed" role="group" aria-label="Winter relative humidity" set:html={plot3} />
+</PrintableEmbed>
+
+<script is:inline set:html={enhancement}></script>
+
+### More Details for the Winter Period
+
+- [SET, air temperature and humidity](/downloads/resilience/winter_SET_temperature.html)
+- [Outdoor Environment](/downloads/resilience/winter_outdoor_environment.html)
+- [Fresh Air Ventilation](/downloads/resilience/winter_ventilation.html)
+- [Energy Flow](/downloads/resilience/winter_energy_flow.html)
+- [Envelope Details](/downloads/resilience/winter_envelope_details.html)

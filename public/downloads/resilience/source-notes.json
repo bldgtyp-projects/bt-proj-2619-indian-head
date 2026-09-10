@@ -1,0 +1,64 @@
+{
+  "status": "preliminary; no compliance finding",
+  "sources": [
+    {
+      "season": "summer",
+      "source": "15_Phius_REVIVE/summer/resilience_heat_index_data.csv",
+      "csv_sha256": "9a8f2f6cb02efc1434f6fea6c839b86e3ee4bc8d16c86851c4662c2e372b8ac9",
+      "verified_against": "15_Phius_REVIVE/summer/Indian_Head_Rd_260908/openstudio/run/eplusout.sql",
+      "sql_sha256": "0ff336f24f4f9313f6bb9ed8dcebce0aefa192fba860b759abec3e272591602f",
+      "rows": 216,
+      "outage_rows_zero_based": [
+        24,
+        192
+      ],
+      "date_note": "CSV uses helper year 2016; report displays simulation day and month/day. EnergyPlus values are hour-ending; CSV labels interval starts.",
+      "minimum_outage_C": {
+        "LEVEL_00_6D78F692": 20.666662147049397,
+        "LEVEL_01_74433ACA": 23.221456406130667,
+        "LEVEL_02.A_4E35AD0B": 23.4590978553078,
+        "LEVEL_02.B_4C01AA2C": 23.44844236176094,
+        "LEVEL_03_669BEE00": 23.568342458134307
+      },
+      "maximum_outage_C": {
+        "LEVEL_00_6D78F692": 21.017717488074158,
+        "LEVEL_01_74433ACA": 42.895316412332384,
+        "LEVEL_02.A_4E35AD0B": 42.98845936196057,
+        "LEVEL_02.B_4C01AA2C": 42.78008701105431,
+        "LEVEL_03_669BEE00": 42.89400121227004
+      }
+    },
+    {
+      "season": "winter",
+      "source": "15_Phius_REVIVE/winter/resilience_SET_temperature.csv",
+      "csv_sha256": "2b555b60466226eee09a8a9473c7177a5476faf2e0498cb53daf87a63dce1244",
+      "verified_against": "15_Phius_REVIVE/winter/Indian_Head_Rd_260908/openstudio/run/eplusout.sql",
+      "sql_sha256": "6bc02e79bcc4db6b3b088d6427356ab470e36800f897703cfc493fa4e7a5141c",
+      "rows": 216,
+      "outage_rows_zero_based": [
+        24,
+        192
+      ],
+      "date_note": "CSV uses helper year 2016; report displays simulation day and month/day. EnergyPlus values are hour-ending; CSV labels interval starts.",
+      "minimum_outage_C": {
+        "LEVEL_00_6D78F692_SPACE RV2024_RESILIENCE_PEOPLE": 20.444810429463278,
+        "LEVEL_01_74433ACA_SPACE RV2024_RESILIENCE_PEOPLE": 14.038696720363646,
+        "LEVEL_02.A_4E35AD0B_SPACE RV2024_RESILIENCE_PEOPLE": 13.971630314684868,
+        "LEVEL_02.B_4C01AA2C_SPACE RV2024_RESILIENCE_PEOPLE": 13.860784327216065,
+        "LEVEL_03_669BEE00_SPACE RV2024_RESILIENCE_PEOPLE": 13.947421311346801
+      },
+      "maximum_outage_C": {
+        "LEVEL_00_6D78F692_SPACE RV2024_RESILIENCE_PEOPLE": 22.42105372673079,
+        "LEVEL_01_74433ACA_SPACE RV2024_RESILIENCE_PEOPLE": 18.613536340512955,
+        "LEVEL_02.A_4E35AD0B_SPACE RV2024_RESILIENCE_PEOPLE": 18.62347877191434,
+        "LEVEL_02.B_4C01AA2C_SPACE RV2024_RESILIENCE_PEOPLE": 18.78001327323991,
+        "LEVEL_03_669BEE00_SPACE RV2024_RESILIENCE_PEOPLE": 18.93674861806561
+      }
+    }
+  ],
+  "qualifications": [
+    "Summer district heating and cooling meters are nonzero during intended outage.",
+    "Winter CSV matches SQL; winter HTML uses different values and is not reproduced.",
+    "Ground boundary and revised PHPP component-package correspondence require review."
+  ]
+}

@@ -1,0 +1,79 @@
+---
+kicker: '02'
+title: Summer Heat Index
+dek: Track the Heat Index in each zone through the seven-day summer outage.
+---
+
+import plot1 from "./summer_heat_index-1.html?raw";
+import plot2 from "./summer_heat_index-2.html?raw";
+import plot3 from "./summer_heat_index-3.html?raw";
+import enhancement from "./summer_heat_index.js?raw";
+
+The **Phius REVIVE** protocol uses **Heat Index**, which combines air temperature and humidity into the temperature
+a person feels, to judge summer habitability. Every zone must satisfy both criteria:
+
+- **Zero hours** in the Danger band (about 103°F Heat Index and above) or the Extreme Danger band (about 125°F and
+  above).
+- **Zero deadly days**, judged from the daily mean temperature and humidity using the Mora method.
+
+<div class="btwr-callout btwr-callout--critical">
+  <strong>Result: Danger band exceeded</strong>
+  <span>Each above-grade level records 12 hours in the Danger band during the outage, with a peak Heat Index of about 109°F. No zone comes near Extreme Danger. The cellar peaks at about 70°F Heat Index. The deadly-days check will be run with the final package.</span>
+</div>
+
+#### What the plots show
+
+Indoor air on the above-grade floors peaks at about **88°F** while outdoor air reaches about **100°F**. Humidity is
+what pushes the Heat Index into the Danger band: indoor relative humidity climbs to near **100%** in several zones
+during the outage, and 88°F at that humidity feels like 109°F. The temperature alone would pass.
+
+The four above-grade levels track each other closely, with the highest Heat Index around day 6 of the simulation.
+The cellar behaves differently. Its air holds at about **68°F** through the whole week, but its humidity sits near
+saturation as well, so it is cooler than the rest of the house rather than drier.
+
+The three plots below show Heat Index, air temperature and relative humidity. Hover for hourly values and use the
+legend to isolate zones. Outdoor conditions are plotted alongside the indoor ones.
+
+#### What would change the result
+
+1. **Exterior shading at the sunroom and the exposed upper glazing.** Overhangs, operable exterior shades or
+   planting stop the sun before it crosses the glass, and they are the strongest passive measure available on
+   this house. Coordinate them with the [summer radiation study](/windows/#summer-radiation), and choose devices
+   that can be worked by hand during an outage.
+2. **Specify the interior shades.** The swing between products is large: a light-colored, tightly woven blind
+   blocks several times the heat of a dark open-weave fabric. This is a specification decision, and the cheapest
+   move available.
+3. **Set the SHGC at the exposed openings.** All five variants carry a 0.40 SHGC. A lower value at the most
+   exposed windows cuts the gain directly, at some cost in winter gain at those openings.
+4. **Plan backup cooling and dehumidification.** Much of the load is humidity and the occupants' own heat, which
+   no envelope measure removes. A modest battery or generator serving one heat pump and a dehumidifier in a
+   chosen refuge room is the measure that closes the gap with certainty. Choose the rooms and the loads first,
+   then size the equipment.
+5. **Window opening helps only when outdoor air is cooler and drier than indoors.** During this heat wave those
+   hours are few, so larger openings would change little.
+
+<div class="btwr-callout">
+  <strong>How firm is this result?</strong>
+  <span>The direction is solid: in a week-long summer outage the house gets warm and very humid, and the glazing and the humidity drive it. The margin to the Danger threshold will move with the shading and glazing decisions still open, and the run will be repeated with the final package.</span>
+</div>
+
+<PrintableEmbed id="summer-plot-1" title="Summer: Heat Index" printSrc="/assets/resilience/summer-1.svg" width={1200} height={650}>
+  <div class="btwr-plotly-embed" role="group" aria-label="Summer Heat Index" set:html={plot1} />
+</PrintableEmbed>
+
+<PrintableEmbed id="summer-plot-2" title="Summer: Air Temperature" printSrc="/assets/resilience/summer-2.svg" width={1200} height={650}>
+  <div class="btwr-plotly-embed" role="group" aria-label="Summer air temperature" set:html={plot2} />
+</PrintableEmbed>
+
+<PrintableEmbed id="summer-plot-3" title="Summer: Relative Humidity" printSrc="/assets/resilience/summer-3.svg" width={1200} height={650}>
+  <div class="btwr-plotly-embed" role="group" aria-label="Summer relative humidity" set:html={plot3} />
+</PrintableEmbed>
+
+<script is:inline set:html={enhancement}></script>
+
+### More Details for the Summer Period
+
+- [Heat Index, air temperature and humidity](/downloads/resilience/summer_heat_index.html)
+- [Outdoor Environment](/downloads/resilience/summer_outdoor_environment.html)
+- [Fresh Air Ventilation](/downloads/resilience/summer_ventilation.html)
+- [Energy Flow](/downloads/resilience/summer_energy_flow.html)

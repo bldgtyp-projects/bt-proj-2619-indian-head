@@ -1,17 +1,65 @@
 ---
-kicker: "00"
-title: "Executive summary"
-dek: "Executive Summary"
-callout_label: "Note"
+kicker: '00'
+title: Executive summary
+dek: Design-phase energy assessment for the renovation and sunroom addition
+callout_label: The headline recommendation
 callout_body: >-
-  Keep high-stakes caveats here: overheating risk, airtightness assumptions, certification path uncertainty, or
-  cost/constructability tradeoffs that could change the recommendation.
-hero_image: "/assets/cover/hero.optimized.png"
-hero_image_full: "/assets/cover/hero.full.png"
-hero_alt: "Isometric line rendering of the proposed building massing."
-hero_caption: "Design-phase building model."
+  Build the renovation as drawn: exterior insulation on the re-clad walls, R-50 roofs, insulated cellar walls and
+  floor wherever they can be reached, LePage wood windows at an installed U-0.20, 1.0 ACH50 airtightness, and a
+  dedicated ERV. Keep the fireplaces and leave the crawlspace floor as it is. Use the PHI EnerPHit component targets
+  as the design guide for everything that is being rebuilt, and skip the certification submission.
+hero_image: /assets/cover/hero.optimized.png
+hero_image_full: /assets/cover/hero.full.png
+hero_alt: Rhino model of the Riverside CT home showing the existing roof forms and sunroom addition.
+hero_caption: Riverside CT Home with proposed renovation.
 ---
 
-This report evaluates the energy performance, thermal comfort, and long-term durability of the proposed building under
-multiple distinct design variants. We have outlined the details of this assessment modeling, the key results, and our
-recommendations within the following pages.
+This report covers the design-phase energy modeling for the proposed home-renovation in Riverside,
+Connecticut. The project is a whole-house renovation and re-cladding, with replacement windows, exterior
+insulation, a new energy recovery ventilation (ERV) system, and a sunroom addition. The performance model was built from
+the **[Granoff Architects](https://granoffarchitects.com)** permit drawing set and the CAD files received on September 1, 2026. It carries 6,587 ft² of
+treated floor area inside 18,335 ft² of thermal envelope.
+
+We tested five distinct _variants_, from a code-minimum benchmark through the full PHI EnerPHit energy-demand target. The
+**As-Drawn variant** is the one we recommend on this case; the other four give it context. The findings below drive
+the recommendations in the pages that follow.
+
+#### What the model shows
+
+1. **The envelope work pays off:** The proposed renovation as drawn cuts purchased energy from about 47,100 kWh/yr at code
+   minimum to about 33,800 kWh/yr, more than a quarter less, and cuts heating demand from about 58,200 to about
+   41,300 kWh/yr. Peak heating load drops from about 87,200 Btu/h to about 59,500 Btu/h, about 5 tons, a size a
+   residential heat-pump system handles easily.
+
+2. **Airtightness and the ERV help:** The **As-Drawn variant** is modeled with an assumed 1.0 ACH50
+   with a balanced ERV at about 73% effective heat recovery, and those two inputs cut the ventilation heat loss to
+   less than half of the code-minimum case. Both cost drawing time and construction sequencing rather than
+   materials, and both have to be written into the construction documents to be delivered.
+
+3. **Two parts of the existing house stay as they are:** The fireplaces remain, and the crawlspace floor cannot be
+   insulated. The floor is the larger energy cost of the two, about 5,200 kWh/yr of heating demand, and both are
+   why we recommend the EnerPHit targets as a design guide rather than as a certificate. The EnerPHit By Component
+   variant shows what the full component package would add on top of As-Drawn: heating demand falls to about
+   25,800 kWh/yr, and most of that step is the crawlspace floor and the junction detailing behind a lower
+   thermal-bridge allowance.
+
+4. **The LePage windows are a comfort decision, not an energy one:** At an installed U-0.20 they sit above the
+   PHI winter-comfort threshold of U-0.165 for this climate, and the energy cost against a Passive House window
+   is about 2,500 kWh/yr of heating demand. The comfort question matters at the sunroom, where the glass runs
+   full height. See [Window Thermal Comfort](/windows/#window-thermal-comfort) for more details.
+
+5. **The summer power-outage test indicates room for improvement:** In the **Phius REVIVE** week-long summer outage
+   the above-grade floors spend 12 hours in the Heat Index Danger band. The winter test passes with a wide margin.
+   Shading at the sunroom and the exposed upper windows could help improve this performance. See [Resilience](/resilience/) for more details.
+
+#### What we recommend
+
+- Use the **As-Drawn** package as the basis of design for the envelope, windows and ventilation, and for pricing.
+- Write **1.0 ACH50** into the construction documents as a contractual target, and test mid-construction while
+  the air barrier is still accessible.
+- Carry the LePage windows at an installed **U-0.20 Btu/hr-ft²-F** or better, and confirm that value with
+  LePage's product data before the window order. Plan a heat source near the sunroom glazing, or ask LePage for
+  a glazing package that reaches U-0.165 there.
+- Plan the fresh-air system as a dedicated ERV with its own ducting, about 300 cfm at high speed, with a separate
+  makeup-air system for the kitchen hood.
+- Develop exterior shading at the sunroom and the exposed upper-story glazing before the window package is fixed.
