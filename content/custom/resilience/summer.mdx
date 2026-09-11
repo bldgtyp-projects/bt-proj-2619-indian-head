@@ -9,16 +9,14 @@ import plot2 from "./summer_heat_index-2.html?raw";
 import plot3 from "./summer_heat_index-3.html?raw";
 import enhancement from "./summer_heat_index.js?raw";
 
-The **Phius REVIVE** protocol uses **Heat Index**, which combines air temperature and humidity into the temperature
-a person feels, to judge summer habitability. Every zone must satisfy both criteria:
+The **Phius REVIVE** protocol uses a measurement called **"Heat Index"**, which combines air temperature and humidity into the temperature a person feels, to judge summer habitability. Every zone must satisfy both of the following criteria:
 
-- **Zero hours** in the Danger band (about 103°F Heat Index and above) or the Extreme Danger band (about 125°F and
-  above).
-- **Zero deadly days**, judged from the daily mean temperature and humidity using the Mora method.
+- **Zero hours** in the Danger band (above 103°F Heat Index).
+- **Zero deadly days**, judged from the daily mean temperature and humidity.
 
 <div class="btwr-callout btwr-callout--critical">
   <strong>Result: Danger band exceeded</strong>
-  <span>Each above-grade level records 12 hours in the Danger band during the outage, with a peak Heat Index of about 109°F. No zone comes near Extreme Danger. The cellar peaks at about 70°F Heat Index. The deadly-days check will be run with the final package.</span>
+  <span>Each above-grade level records 12 hours in the Danger band during the outage, with a peak Heat Index of about 109°F. No zone comes near Extreme Danger level (125°F). The cellar peaks at about 70°F Heat Index. The deadly-days check will be run with the final package.</span>
 </div>
 
 #### What the plots show
@@ -40,11 +38,9 @@ legend to isolate zones. Outdoor conditions are plotted alongside the indoor one
    planting stop the sun before it crosses the glass, and they are the strongest passive measure available on
    this house. Coordinate them with the [summer radiation study](/windows/#summer-radiation), and choose devices
    that can be worked by hand during an outage.
-2. **Specify the interior shades.** The swing between products is large: a light-colored, tightly woven blind
-   blocks several times the heat of a dark open-weave fabric. This is a specification decision, and the cheapest
-   move available.
+2. **Specify the interior shades.** Choose a light-colored, tightly woven blind which will block several times the heat of a dark open-weave fabric.
 3. **Set the SHGC at the exposed openings.** All five variants carry a 0.40 SHGC. A lower value at the most
-   exposed windows cuts the gain directly, at some cost in winter gain at those openings.
+   exposed windows cuts the gain directly, at some cost in winter gain at those openings. _Note: LePage window product information received Sept 10, 2026 (after this study was complete) indicate an SHGC of ~0.20 which would help reduce this overheating risk significantly._ 
 4. **Plan backup cooling and dehumidification.** Much of the load is humidity and the occupants' own heat, which
    no envelope measure removes. A modest battery or generator serving one heat pump and a dehumidifier in a
    chosen refuge room is the measure that closes the gap with certainty. Choose the rooms and the loads first,
